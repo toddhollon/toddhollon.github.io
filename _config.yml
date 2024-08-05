@@ -12,7 +12,7 @@ title                    : "Todd Hollon"
 title_separator          : "-"
 name                     : &name "Todd Hollon"
 description              : &description "Research Scientist, Neurosurgeon, Machine Learning + Neurosciences"
-url                      : https://toddhollon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://toddhollon.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "toddhollon/toddhollon.github.io"
 
