@@ -2,21 +2,22 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
-I am a Ph.D. student at ...
+I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery Lab***. We work on problems at the intersection of neuroscience, computer science, and bioinformatics.
+
+## MLiNS News
+
+- **[Apr 2026]** Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
+- **[Feb 2026]** ***Prima*** is published in *Nature Biomedical Engineering*.
+- **[Feb 2026]** Yiwei Lyu's paper, ***ItemizedCLIP*** is accepted at *CVPR*.
+- **[Feb 2026]** Xinhai Hou's paper, ***CodeV*** is accepted at *CVPR*.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Medical Computer Vision**: hierarchical representations, inductive biases, anatomical priors
+- **Biomedical Imaging**: neuroimaging, optical imaging, intraoperative imaging, microscopy
+- **Multimodal Learning**: vision-language modeling, health system learning
 
 {% include_relative _includes/publications.md %}
 
