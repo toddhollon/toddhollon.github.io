@@ -20,9 +20,9 @@ twitter: https://x.com/ToddCHollon
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: /assets/img/FullSizeRender-1.png
-favicon: /assets/img/white_back_black_letter.png
-favicon_dark: /assets/img/black_back_white_letter.png
+avatar: /assets/img/people/FullSizeRender-1.png
+favicon: /assets/img/lab_logo/white_back_black_letter.png
+favicon_dark: /assets/img/lab_logo/black_back_white_letter.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

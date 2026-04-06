@@ -1,40 +1,46 @@
 # Lab members shown on /students/
-# Source merged from mlneurosurg.github.io/_data/people.yaml (people section).
-# Optional fields per person: role, image, website, email, bio
+# Optional fields per person: role, research_focus, image, website, email, bio
 
 main:
   - name: Soumyanil Banerjee, PhD
     role: Postdoctoral fellow
+    research_focus: generative neuroimaging
     image: /assets/img/people/soumbane.webp
     website: https://soumbane.github.io/
 
   - name: Cheng Jiang
     role: PhD Candidate
+    research_focus: Representation learning for optical microscopy
     image: /assets/img/people/chengjia.webp
     website: https://chengjia.me/
 
   - name: Renly Hou
     role: PhD Candidate
+    research_focus: Agentic models in medical AI
     image: /assets/img/people/xinhaih.webp
     website: https://renlyh.github.io/
 
   - name: Yiwei Lyu
-    role: PhD Student
+    role: PhD Candidate
+    research_focus: Vision-language models
     image: /assets/img/people/yiweilyu.webp
     website: https://lvyiwei1.github.io/
 
   - name: Akhil Kondepudi
     role: MD/PhD Student
+    research_focus: Visual representation learning, world models
     image: /assets/img/people/akhilk.webp
     website: https://avkondepudi.me
 
   - name: Akshay Rao
     role: MD/PhD Student
+    research_focus: Generative multimodal models
     image: /assets/img/people/akshayro.webp
     # bio: "Akshay Rao is 2nd year MD/PhD student at the University of Michigan. His research interests are broadly in the development of signal processing and machine learning methods to address problems in healthcare and biomedical research. He completed his undergraduate studies in Computer Engineering at the University of Michigan, where he worked under Dr. Parag Patil to develop signal processing algorithms to assist surgeons during deep brain stimulation procedures."
 
   - name: Chenhui Zhao
-    role: PhD Student
+    role: PhD candidate
+    research_focus: Hierarchical learning, 
     image: /assets/img/people/chuizhao.webp
 
   - name: Samir Harake
@@ -49,9 +55,6 @@ main:
     role: Neurosurgery Resident
     image: /assets/img/people/joshiru.webp
 
-  - name: Shixuan Liu
-    role: Undergraduate Researcher
-    image: /assets/img/people/shixuanl.webp
 
   - name: Jacob Ogle
     role: Machine Learning Engineer

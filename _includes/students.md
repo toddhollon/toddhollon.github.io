@@ -23,6 +23,9 @@
     <div class="author">{{ member.role }}</div>
     {% endif %}
     {% endif %}
+    {% if member.research_focus %}
+    <div class="author"><em>Research focus:</em> {{ member.research_focus }}</div>
+    {% endif %}
     {% if member.bio %}
     <div class="periodical">{{ member.bio | markdownify }}</div>
     {% endif %}

@@ -232,6 +232,19 @@ a:hover small {
   color:#777;
 }
 
+header h1 a {
+  color: inherit;
+}
+
+header h1 a:hover {
+  color: #043361;
+  opacity: 0.85;
+}
+
+header a.image.avatar:hover {
+  opacity: 0.92;
+}
+
 .wrapper {
   width:1080px;
   margin:0 auto;

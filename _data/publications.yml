@@ -5,10 +5,10 @@ main:
     # conference_short: nBME
     conference: Nature Biomedical Engineering, 2026
     venue_logo: /assets/img/venues/nBME.jpg
-    pdf: ./assets/papers/Prima_2026.pdf
+    pdf: /assets/papers/Prima_2026.pdf
     code: https://github.com/MLNeurosurg/Prima
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/prima2026.png
+    image: /assets/img/paper_logo/prima2026.png
     demo: https://prima.mlins.org/
 
   - title: Learning complete and explainable visual representations from itemized text supervision
@@ -19,7 +19,7 @@ main:
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/itemizedclip2026.png
+    image: /assets/img/paper_logo/itemizedclip2026.png
     # notes: Early Accept
 
   - title: "CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization"
@@ -30,18 +30,18 @@ main:
     pdf: https://arxiv.org/pdf/2511.19661 
     code: https://github.com/RenlyH/CodeV
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/codev2026.png
+    image: /assets/img/paper_logo/codev2026.png
 
   - title: Foundation models for fast, label-free detection of glioma infiltration
     authors: Akhil Kondepudi, et al.
     # conference_short: Nature
     conference: Nature 2025
-    venue_logo: ./assets/img/venues/nature.png
-    pdf: ./assets/papers/fastglioma.pdf
+    venue_logo: /assets/img/venues/nature.png
+    pdf: /assets/papers/fastglioma.pdf
     code: https://github.com/MLNeurosurg/fastglioma
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     demo: https://fastglioma.mlins.org/
-    image: ./assets/img/fastglioma.png
+    image: /assets/img/paper_logo/fastglioma.png
 
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
