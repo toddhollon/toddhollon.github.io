@@ -20,7 +20,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization
+  - title: "CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization"
     authors: 
     conference_short: CVPR
     conference: Computer Vision and Pattern Recognition, 2026
