@@ -23,9 +23,11 @@ The team, the team, the team.
 - **Biomedical Imaging**: neuroimaging, optical imaging, intraoperative microscopy
 - **Multimodal Learning**: vision-language modeling, health system learning
 
+## Selected Publications {#selected-publications}
+
 {% include_relative _includes/selected_publications.md %}
 
-[Full list of lab papers and links.](/publications/)
+## [Full list of lab papers.](/publications/)
 
 ## Funding sources
 

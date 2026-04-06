@@ -43,6 +43,7 @@ main:
   authors: Mustafa Nasir-Moin, Lisa Irina Wadiura, Vlad Sacalean, Devin Juros, Misha Movahed-Ezazi, Emily K. Lock, Andrew Smith, Matthew Lee, Hannah Weiss, Michael Müther, Daniel Alber, Sujay Ratna, Camila Fang, Eric Suero-Molina, Sönke Hellwig, Walter Stummer, Karl Rössler, Johannes A. Hainfellner, Georg Widhalm, Barbara Kiesel, David Reichert, Mario Mischkulnig, Rajan Jain, Jakob Straehle, Nicolas Neidert, Oliver Schnell, Jürgen Beck, Jay Trautman, Steve Pastore, Donato Pacione, Dimitris Placantonakis, Eric Karl Oermann, John G. Golfinos, Todd C. Hollon, Matija Snuderl, Christian W. Freudiger, Dieter Henrik Heiland, and Daniel A. Orringer
   conference_short: '2024'
   conference: NATURE BIOMEDICAL ENGINEERING · 2024
+  venue_logo: "/assets/img/venues/nBME.jpg"
   url: https://doi.org/10.1038/s41551-024-01217-3
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/nasir2024localization.pdf
   image: "/assets/img/paper_logo/nasir2024localization.webp"
