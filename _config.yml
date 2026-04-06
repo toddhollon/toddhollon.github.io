@@ -14,15 +14,15 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=37OCG3gAAAAJ&hl=en&oi=ao
 cv_link: assets/files/Hollon_MinimalCV.pdf
-github_link: https://github.com/toddhollon
-linkedin: linkedin.com/in/todd-hollon-9b3983210
+github_link: https://github.com/MLNeurosurg
+linkedin: https://linkedin.com/in/todd-hollon-9b3983210
 twitter: https://x.com/ToddCHollon
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/FullSizeRender-1.png
+favicon: ./assets/img/white_back_black_letter.png
+favicon_dark: ./assets/img/black_back_white_letter.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -34,7 +34,7 @@ auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

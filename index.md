@@ -15,7 +15,7 @@ I am an Assistant Professor at the University of Michigan and the Principal Inve
 
 ## Research Interests
 
-- **Medical Computer Vision**: hierarchical representations, inductive biases, anatomical priors
+- **Medical Computer Vision**: hierarchical representations, medical inductive bias, anatomical priors
 - **Biomedical Imaging**: neuroimaging, optical imaging, intraoperative imaging, microscopy
 - **Multimodal Learning**: vision-language modeling, health system learning
 
