@@ -27,8 +27,8 @@ The team, the team, the team.
 
 {% include_relative _includes/selected_publications.md %}
 
-## [Full list of lab papers.](/publications/)
+# [Full list of lab papers.](/publications/)
 
-## Funding sources
+<!-- ## Funding sources -->
 
 <!-- {% include_relative _includes/services.md %} -->

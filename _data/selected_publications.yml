@@ -2,46 +2,42 @@
 main:
   - title: Learning neuroimaging models with health system-scale data
     authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, et al.
-    conference_short: nBME
+    # conference_short: nBME
     conference: Nature Biomedical Engineering, 2026
     venue_logo: /assets/img/venues/nBME.jpg
     pdf: /assets/papers/Prima_2026.pdf
     code: https://github.com/MLNeurosurg/Prima
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: /assets/img/paper_logo/prima2026.png
     demo: https://prima.mlins.org/
     url: https://prima.mlins.org/
 
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, et al.
-    conference_short: CVPR
+    # conference_short: CVPR
     conference: Computer Vision and Pattern Recognition, 2026
     venue_logo: /assets/img/venues/cvpr_cvf.jpg
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: /assets/img/paper_logo/itemizedclip2026.png
     url: https://arxiv.org/abs/2512.11141
 
   - title: "CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization"
     authors: Xinhai Hou, et al.
-    conference_short: CVPR
+    # conference_short: CVPR
     conference: Computer Vision and Pattern Recognition, 2026
     venue_logo: /assets/img/venues/cvpr_cvf.jpg
     pdf: https://arxiv.org/pdf/2511.19661 
     code: https://github.com/RenlyH/CodeV
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: /assets/img/paper_logo/codev2026.png
     url: https://arxiv.org/abs/2511.19661
 
   - title: Foundation models for fast, label-free detection of glioma infiltration
     authors: Akhil Kondepudi, et al.
-    conference_short: Nature
+    # conference_short: Nature
     conference: Nature 2025
     venue_logo: /assets/img/venues/nature.png
     pdf: /assets/papers/fastglioma.pdf
     code: https://github.com/MLNeurosurg/fastglioma
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     demo: https://fastglioma.mlins.org/
     image: /assets/img/paper_logo/fastglioma.png
     url: https://www.nature.com/articles/s41586-024-08169-3

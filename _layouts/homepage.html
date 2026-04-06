@@ -85,8 +85,20 @@
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.uofm_health_profile %}
+        <a class="social-icon-img" style="margin: 0 5px 0 0" href="{{ site.uofm_health_profile }}" rel="noopener" target="_blank" aria-label="Michigan Medicine faculty profile">
+          <img src="{{ '/assets/img/social/umich-block-m.svg' | relative_url }}" alt="" width="18" height="18" />
+        </a>
+        {% endif %}
+
+        {% if site.huggingface %}
+        <a class="social-icon-img" style="margin: 0 0 0 0" href="{{ site.huggingface }}" rel="noopener" target="_blank" aria-label="Hugging Face — MLiNS Lab">
+          <img src="{{ '/assets/img/social/huggingface.svg' | relative_url }}" alt="" width="18" height="18" />
         </a>
         {% endif %}
         </div>
