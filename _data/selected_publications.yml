@@ -1,0 +1,69 @@
+# Shown on the homepage (_includes/selected_publications.md). Full list: _data/publications.yml + /publications/
+main:
+  - title: Learning neuroimaging models with health system-scale data
+    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, et al.
+    conference_short: nBME
+    conference: Nature Biomedical Engineering, 2026
+    venue_logo: /assets/img/venues/nBME.jpg
+    pdf: /assets/papers/Prima_2026.pdf
+    code: https://github.com/MLNeurosurg/Prima
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: /assets/img/paper_logo/prima2026.png
+    demo: https://prima.mlins.org/
+    url: https://prima.mlins.org/
+
+  - title: Learning complete and explainable visual representations from itemized text supervision
+    authors: Yiwei Lyu, et al.
+    conference_short: CVPR
+    conference: Computer Vision and Pattern Recognition, 2026
+    venue_logo: /assets/img/venues/cvpr_cvf.jpg
+    pdf: https://arxiv.org/pdf/2512.11141
+    code: https://github.com/MLNeurosurg/ItemizedCLIP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: /assets/img/paper_logo/itemizedclip2026.png
+    url: https://arxiv.org/abs/2512.11141
+
+  - title: "CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization"
+    authors: Xinhai Hou, et al.
+    conference_short: CVPR
+    conference: Computer Vision and Pattern Recognition, 2026
+    venue_logo: /assets/img/venues/cvpr_cvf.jpg
+    pdf: https://arxiv.org/pdf/2511.19661 
+    code: https://github.com/RenlyH/CodeV
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: /assets/img/paper_logo/codev2026.png
+    url: https://arxiv.org/abs/2511.19661
+
+  - title: Foundation models for fast, label-free detection of glioma infiltration
+    authors: Akhil Kondepudi, et al.
+    conference_short: Nature
+    conference: Nature 2025
+    venue_logo: /assets/img/venues/nature.png
+    pdf: /assets/papers/fastglioma.pdf
+    code: https://github.com/MLNeurosurg/fastglioma
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    demo: https://fastglioma.mlins.org/
+    image: /assets/img/paper_logo/fastglioma.png
+    url: https://www.nature.com/articles/s41586-024-08169-3
+
+
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
