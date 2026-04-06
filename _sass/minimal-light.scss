@@ -104,7 +104,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 0.9375rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -216,7 +216,7 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
+        width: 52%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -266,7 +266,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:2rem;
 }
 
 a {
@@ -296,7 +296,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1080px;
   margin:0 auto;
 }
 
@@ -356,7 +356,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:260px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -432,7 +432,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:750px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -450,7 +450,7 @@ hr {
 }
 
 footer {
-  width:232px;
+  width:260px;
   float:left;
   position:fixed;
   bottom:30px;
@@ -500,7 +500,7 @@ footer {
 
    .image.avatar img {
         border-radius: 100%;
-        width: 117px;
+        width: 132px;
         padding:20px;
       }
   #head1o2 {
@@ -556,7 +556,7 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 95px;
+      width: 108px;
       padding:20px;
   }
   #head1o2 {

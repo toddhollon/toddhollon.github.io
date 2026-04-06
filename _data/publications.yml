@@ -9,6 +9,7 @@ main:
     code: https://github.com/MLNeurosurg/Prima
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/prima2026.png
+    demo: https://prima.mlins.org/
 
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, et al.

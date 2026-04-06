@@ -15,7 +15,7 @@ I am an Assistant Professor at the University of Michigan and the Principal Inve
 - **[Feb 2026]** Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
 - **[Feb 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR*.
 
-## Research Interests
+## Research Programs
 
 - **Medical Computer Vision**: hierarchical representations, inductive bias, anatomical priors
 - **Biomedical Imaging**: neuroimaging, optical imaging, intraoperative microscopy
@@ -23,4 +23,4 @@ I am an Assistant Professor at the University of Michigan and the Principal Inve
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
