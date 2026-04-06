@@ -7,6 +7,10 @@ main:
     image: /assets/img/people/jakeogle.jpeg
     website: https://www.linkedin.com/in/jakeogle/
 
+  - name: Lin Wang
+    role: Laboratory Technician
+    image: /assets/img/people/linwan.webp
+
   - name: Soumyanil Banerjee, PhD
     role: Postdoctoral fellow
     research_focus: generative neuroimaging
@@ -56,10 +60,6 @@ main:
   - name: Rushikesh Joshi, MD
     role: Neurosurgery Resident
     image: /assets/img/people/joshiru.webp
-
-  - name: Lin Wang
-    role: Laboratory Technician
-    image: /assets/img/people/linwan.webp
 
   - name: Karen Eddy
     role: Lab Manager

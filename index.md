@@ -10,7 +10,7 @@ I am an Assistant Professor at the University of Michigan and the Principal Inve
 
 The team, the team, the team.
 
-## MLiNS News
+## [MLiNS News](/news/)
 
 - **[Apr 2026]** Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
 - **[Feb 2026]** ***Prima*** is published in *Nature Biomedical Engineering*.
@@ -24,5 +24,9 @@ The team, the team, the team.
 - **Multimodal Learning**: vision-language modeling, health system learning
 
 {% include_relative _includes/publications.md %}
+
+All publications here.
+
+## Funding sources
 
 <!-- {% include_relative _includes/services.md %} -->
