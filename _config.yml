@@ -48,6 +48,8 @@ remote_theme: yaoyao-liu/minimal-light
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .bundle/
+  - vendor/
   - README.md
   - README_zh_Hans.md
   - README_zh_Hant.md
