@@ -4,7 +4,8 @@ permalink: /students/
 ---
 
 ## Lab members
-Your intro text here.
+
+Best part of my day is working with these people.
 
 {% include_relative _includes/students.md %}
 
@@ -16,5 +17,6 @@ Your intro text here.
 - **Daniel Li**: Visiting Researcher (2024) >> MIT
 - **Sung Jik Cha**: Medical Student (2024) >> Johns Hopkins Neurology Resident
 - **Rachel Gologorsky**: Medical Student (2024) >> Mount Sinai Neurology Resident
+- **Abhishek Bhattacharya**: Medical Student (2023) >> Internal Medicine Resident at NYU
 - **Lisa Walsh**: Medical Student (2023)
 - **Esteban Urias, MD**: Medical Student (2021) >> UM Internal Medicine Resident

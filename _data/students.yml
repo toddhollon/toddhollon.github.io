@@ -2,6 +2,11 @@
 # Optional fields per person: role, research_focus, image, website, email, bio
 
 main:
+  - name: Jacob Ogle
+    role: Machine Learning Engineer
+    image: /assets/img/people/jakeogle.jpeg
+    website: https://www.linkedin.com/in/jakeogle/
+
   - name: Soumyanil Banerjee, PhD
     role: Postdoctoral fellow
     research_focus: generative neuroimaging
@@ -27,39 +32,30 @@ main:
     website: https://lvyiwei1.github.io/
 
   - name: Akhil Kondepudi
-    role: MD/PhD Student
+    role: MD/PhD Candidate
     research_focus: Visual representation learning, world models
     image: /assets/img/people/akhilk.webp
     website: https://avkondepudi.me
 
   - name: Akshay Rao
-    role: MD/PhD Student
+    role: MD/PhD Candidate
     research_focus: Generative multimodal models
     image: /assets/img/people/akshayro.webp
     # bio: "Akshay Rao is 2nd year MD/PhD student at the University of Michigan. His research interests are broadly in the development of signal processing and machine learning methods to address problems in healthcare and biomedical research. He completed his undergraduate studies in Computer Engineering at the University of Michigan, where he worked under Dr. Parag Patil to develop signal processing algorithms to assist surgeons during deep brain stimulation procedures."
 
   - name: Chenhui Zhao
     role: PhD candidate
-    research_focus: Hierarchical learning, 
+    research_focus: Hierarchical learning, scalable pretraining
     image: /assets/img/people/chuizhao.webp
+    website: https://zch0414.github.io/
 
   - name: Samir Harake
     role: Medical Student
     image: /assets/img/people/eharakej.webp
 
-  - name: Abhishek Bhattacharya
-    role: Medical Student
-    image: /assets/img/people/abhishbh.webp
-
   - name: Rushikesh Joshi, MD
     role: Neurosurgery Resident
     image: /assets/img/people/joshiru.webp
-
-
-  - name: Jacob Ogle
-    role: Machine Learning Engineer
-    image: /assets/img/people/jakeogle.jpeg
-    website: https://www.linkedin.com/in/jakeogle/
 
   - name: Lin Wang
     role: Laboratory Technician
