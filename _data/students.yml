@@ -1,0 +1,10 @@
+# Lab members shown on /students/
+# Add entries under main. Optional fields: role, image, website, email
+main: []
+
+# Example (uncomment and edit, or paste under main):
+ - name: Jane Doe
+   role: PhD student
+   image: /assets/img/jane-doe.jpg
+   bio: "Brief bio text. Research interests and background."
+   website: https://example.com
