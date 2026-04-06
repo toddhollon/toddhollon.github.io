@@ -6,7 +6,9 @@ layout: homepage
 
 I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery (MLiNS) Lab***. We work on problems at the intersection of neuroscience, computer science, and bioinformatics.
 
-[Photos and Bios of MLiNS Team](/students/)
+## [Photos and Bios of MLiNS Team](/students/)
+
+The team, the team, the team.
 
 ## MLiNS News
 
