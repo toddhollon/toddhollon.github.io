@@ -21,13 +21,13 @@ uofm_health_profile: https://uofmhealth.org/profile/1295176014/todd-charles-holl
 huggingface: https://huggingface.co/mlinslab
 
 # Sidebar: MLiNS wordmark (white background, black lettering) below social icons
-lab_logo_sidebar: /assets/img/lab_logo/white_back_black_letter.png
-lab_logo_link: https://mlins.org
+lab_logo_sidebar: /assets/img/lab_logo/logo_mlins_final.png
+lab_logo_link: /
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: /assets/img/people/FullSizeRender-1.png
-favicon: /assets/img/lab_logo/white_back_black_letter.png
+favicon: /assets/img/lab_logo/logo_mlins_final.png
 favicon_dark: /assets/img/lab_logo/black_back_white_letter.png
 
 # Footnote
