@@ -130,6 +130,7 @@ main:
   url: https://deepglioma.mlins.org/
   pdf: https://doi.org/10.1038/s41591-023-02252-4
   image: "/assets/img/paper_logo/hollon2023artificial.webp"
+  venue_logo: "/assets/img/venues/nature_medicine_logo.png"
   code: https://github.com/MLNeurosurg/deepglioma
   demo: https://deepglioma.mlins.org/
   pills:
@@ -219,6 +220,7 @@ main:
 - title: Spatiotemporal analysis of glioma heterogeneity reveals COL1A1 as an actionable target to disrupt tumor progression
   authors: Andrea Comba, Syed M. Faisal, Patrick J. Dunn, Anna E. Argento, Todd C. Hollon, Wajd N. Al-Holou, Maria Luisa Varela, Daniel B. Zamler, Gunnar L. Quass, Pierre F. Apostolides, Clifford Abel II, Christine E. Brown, Phillip E. Kish, Alon Kahana, Celina G. Kleer, Sebastien Motsch, Maria G. Castro and Pedro R. Lowenstein
   conference: NATURE COMMUNICATIONS · 2022
+  venue_logo: "/assets/img/venues/nature_comms.png"
   url: https://doi.org/10.1038/s41467-022-31340-1
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/comba2021uncovering.pdf
   image: "/assets/img/paper_logo/comba2022spatiotemporal.webp"
@@ -360,6 +362,7 @@ main:
   url: https://doi.org/10.1038/s41591-019-0715-9
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2020near.pdf
   image: "/assets/img/paper_logo/hollon2020near.webp"
+  venue_logo: "/assets/img/venues/nature_medicine_logo.png"
   code: https://github.com/MLNeurosurg/srh_cnn
   pills:
   - title: PDF
