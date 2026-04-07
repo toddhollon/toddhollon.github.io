@@ -20,6 +20,10 @@ twitter: https://x.com/ToddCHollon
 uofm_health_profile: https://uofmhealth.org/profile/1295176014/todd-charles-hollon
 huggingface: https://huggingface.co/mlinslab
 
+# Sidebar: MLiNS wordmark (white background, black lettering) below social icons
+lab_logo_sidebar: /assets/img/lab_logo/white_back_black_letter.png
+lab_logo_link: https://mlins.org
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: /assets/img/people/FullSizeRender-1.png

@@ -1,0 +1,30 @@
+main:
+  - title: A machine learning approach to predict early outcomes after pituitary adenoma surgery
+    authors: Todd C Hollon, Adish Parikh, Balaji Pandian, Jamaal Tarpeh, Daniel A Orringer, Ariel L Barkan, Erin L McKean, Stephen E Sullivan
+    conference: JOURNAL OF NEUROSURGERY · 2018
+    url: https://doi.org/10.3171/2018.8.focus18268
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018machine.pdf
+    image: "/assets/img/paper_logo/hollon2018machine.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018machine.pdf
+
+  - title: Clinical Factors Associated With ICU-Specific Care Following Supratentoral Brain Tumor Resection and Validation of a Risk Prediction Score
+    authors: Lynze R Franko, Todd Hollon, Joseph Linzey, Christopher Roark, Venkatakrishna Rajajee, Kyle Sheehan, Magnus Teig, Shawn Hervey-Jumper, Jason Heth, Daniel Orringer, Craig A Williamson
+    conference: CRITICAL CARE MEDICINE · 2018
+    url: https://doi.org/10.1097/ccm.0000000000003207
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/franko2018clinical.pdf
+    image: "/assets/img/paper_logo/franko2018clinical.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/franko2018clinical.pdf
+
+  - title: "Supratentorial hemispheric ependymomas: an analysis of 109 adults for survival and prognostic factors"
+    authors: Todd Hollon, Vincent Nguyen, Brandon W Smith, Spencer Lewis, Larry Junck, Daniel A Orringer
+    conference: JOURNAL OF NEUROSURGERY · 2016
+    url: https://doi.org/10.3171/2015.7.jns151187
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2016superatentorial.pdf
+    image: "/assets/img/paper_logo/hollon2016superatentorial.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2016superatentorial.pdf

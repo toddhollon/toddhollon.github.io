@@ -32,6 +32,28 @@
   object-fit: contain;
 }
 
+.lab-logo-sidebar {
+  margin-top: 0.85rem;
+  text-align: center;
+}
+
+.lab-logo-sidebar img {
+  max-width: 7.5rem;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.lab-logo-sidebar a {
+  display: inline-block;
+  line-height: 0;
+}
+
+.lab-logo-sidebar a:hover img {
+  opacity: 0.9;
+}
+
     /*
     .social-icons a:after {
         content: '';
