@@ -17,17 +17,18 @@ The team, the team, the team.
 - **[Feb 2026]** Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
 - **[Feb 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR*.
 
-## Research Programs
+## MLiNS Research Programs
 
-- **Medical Computer Vision**: hierarchical representations, inductive bias, anatomical priors
-- **Biomedical Imaging**: neuroimaging, optical imaging, intraoperative microscopy
-- **Multimodal Learning**: vision-language modeling, health system learning
+- **[Intelligent Histology](/research/intelligent-histology/)** — intraoperative microscopy, computational pathology
+- **[Neuroimaging](/research/neuroimaging/)** — AI for computed tomography and magnetic resonance imaging
+- **[Multimodal medical AI](/research/multimodal-medical-ai/)** — vision-language modeling, health system learning
+- **[Patient forecasting](/research/patient-forecasting/)** — outcome and survival prediction
 
 ## Selected Publications {#selected-publications}
 
 {% include_relative _includes/selected_publications.md %}
 
-# [Full list of lab papers.](/publications/)
+### [Full list of lab papers.](/publications/)
 
 <!-- ## Funding sources -->
 

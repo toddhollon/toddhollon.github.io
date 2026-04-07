@@ -1,6 +1,5 @@
 Things to add:
 1) Links to videos from the lab
 2) Add Prima news article to list. 
-2) Add link to clinical website here. 
-2) Add News
-3) Add Research Programs, links to pages for this
+3) Add News
+4) Add Research Programs, links to pages for this
