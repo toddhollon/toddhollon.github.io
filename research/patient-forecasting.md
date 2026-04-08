@@ -11,6 +11,6 @@ Machine learning has the potential to revolutionize the way we predict patient o
 
 ### Related publications
 
-{% include patient_forecasting_publications.md %}
+{% include bibliography_list.html collection=site.data.patient_forecasting_publications.main %}
 
 [← Back to home](/)

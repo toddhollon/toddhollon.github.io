@@ -13,6 +13,6 @@ Add images with Markdown: `![Caption](path/to/image.png)` (paths from site root 
 
 ### Related publications
 
-{% include intelligent_histology_publications.md %}
+{% include bibliography_list.html collection=site.data.intelligent_histology_publications.main %}
 
 [← Back to home](/)
