@@ -7,7 +7,7 @@ permalink: /research/multimodal-medical-ai/
 
 **Themes:** vision-language modeling, health system learning
 
-Add an overview of this research program here: modalities you combine, scale of data, and deployment context.
+<!-- Add an overview of this research program here: modalities you combine, scale of data, and deployment context.
 
 ### Figures
 
@@ -15,6 +15,6 @@ Add images with Markdown: `![Caption](path/to/image.png)` (paths from site root 
 
 ### Related publications
 
-Link to the [full publications list](/publications/) or list key papers below.
+Link to the [full publications list](/publications/) or list key papers below. -->
 
 [← Back to home](/)

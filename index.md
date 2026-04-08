@@ -29,6 +29,10 @@ The team, the team, the team.
 
 {% include_relative _includes/selected_publications.md %}
 
+## New Preprints {#selected-preprints}
+
+{% include_relative _includes/selected_preprints.md %}
+
 ### [Full list of lab papers.](/publications/)
 
 <!-- ## Funding sources -->
