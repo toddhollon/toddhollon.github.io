@@ -32,7 +32,7 @@ main:
     url: https://arxiv.org/abs/2511.19661
 
   - title: Foundation models for fast, label-free detection of glioma infiltration
-    authors: Akhil Kondepudi, et al.
+    authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
     # conference_short: Nature
     conference: Nature 2025
     venue_logo: /assets/img/venues/nature.png

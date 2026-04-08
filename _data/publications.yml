@@ -27,8 +27,20 @@ main:
   code: https://github.com/RenlyH/CodeV
   image: "/assets/img/paper_logo/codev2026.png"
   url: https://arxiv.org/abs/2511.19661
+- title: Intelligent histology for tumor neurosurgery
+  authors: Xinhai Hou <sup>*</sup>, Akhil V. Kondepudi <sup>*</sup>, Cheng Jiang <sup>*</sup>, Yiwei Lyu, Edward Samir Harake, Asadur Chowdury, Anna-Katharina Meißner, Volker Neuschmelting, David Reinecke, Gina Fürtjes, Georg Widhalm, Lisa Irina Körner, Jakob Straehle, Nicolas Neidert, Pierre Scheffler, Jürgen Beck, Michael E. Ivan, Ashish H. Shah, Aditya S. Pandey, Sandra Camelo-Piragua, Dieter Henrik Heiland, Oliver Schnell, Chris Freudiger, Jacob Young, Melike Pekmezci, Katie Scotford, Shawn Hervey-Jumper, Daniel Orringer, Mitchel Berger, and Todd Hollon
+  conference: NEURO-ONCOLOGY ADVANCES · 2026
+  venue_logo: "/assets/img/venues/neuro_oncology_advances.png"
+  url: https://academic.oup.com/noa/article/8/1/vdag065/8503168
+  pdf: https://doi.org/10.1093/noajnl/vdag065
+  image: "/assets/img/paper_logo/hou2026intelligent_histology.png"
+  pills:
+  - title: Publisher
+    link: https://academic.oup.com/noa/article/8/1/vdag065/8503168
+  - title: DOI
+    link: https://doi.org/10.1093/noajnl/vdag065
 - title: Foundation models for fast, label-free detection of glioma infiltration
-  authors: Akhil Kondepudi, et al.
+  authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
   conference: Nature 2025
   venue_logo: "/assets/img/venues/nature.png"
   pdf: "/assets/papers/fastglioma.pdf"

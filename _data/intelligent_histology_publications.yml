@@ -1,0 +1,77 @@
+# Related publications for /research/intelligent-histology/ (same schema as publications.yml).
+main:
+  - title: Intelligent histology for tumor neurosurgery
+    authors: Xinhai Hou <sup>*</sup>, Akhil V. Kondepudi <sup>*</sup>, Cheng Jiang <sup>*</sup>, Yiwei Lyu, Edward Samir Harake, Asadur Chowdury, Anna-Katharina Meißner, Volker Neuschmelting, David Reinecke, Gina Fürtjes, Georg Widhalm, Lisa Irina Körner, Jakob Straehle, Nicolas Neidert, Pierre Scheffler, Jürgen Beck, Michael E. Ivan, Ashish H. Shah, Aditya S. Pandey, Sandra Camelo-Piragua, Dieter Henrik Heiland, Oliver Schnell, Chris Freudiger, Jacob Young, Melike Pekmezci, Katie Scotford, Shawn Hervey-Jumper, Daniel Orringer, Mitchel Berger, and Todd Hollon
+    conference: NEURO-ONCOLOGY ADVANCES · 2026
+    venue_logo: "/assets/img/venues/neuro_oncology_advances.png"
+    url: https://academic.oup.com/noa/article/8/1/vdag065/8503168
+    pdf: https://doi.org/10.1093/noajnl/vdag065
+    image: "/assets/img/paper_logo/hou2026intelligent_histology.png"
+    pills:
+      - title: Publisher
+        link: https://academic.oup.com/noa/article/8/1/vdag065/8503168
+      - title: DOI
+        link: https://doi.org/10.1093/noajnl/vdag065
+
+  - title: Foundation models for fast, label-free detection of glioma infiltration
+    authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
+    conference: Nature 2025
+    venue_logo: "/assets/img/venues/nature.png"
+    pdf: "/assets/papers/fastglioma.pdf"
+    code: https://github.com/MLNeurosurg/fastglioma
+    demo: https://fastglioma.mlins.org/
+    image: "/assets/img/paper_logo/fastglioma.png"
+    url: https://www.nature.com/articles/s41586-024-08169-3
+
+  - title: AI-based molecular classification of diffuse gliomas using rapid, label-free optical imaging
+    authors: Todd Hollon, Cheng Jiang, Asadur Chowdury, Mustafa Nasir-Moin, Akhil Kondepudi, Alexander Aabedi, Arjun Adapa, Wajd Al-Holou, Jason Heth, Oren Sagher, Pedro Lowenstein, Maria Castro, Lisa Irina Wadiura, Georg Widhalm, Volker Neuschmelting, David Reinecke, Niklas von Spreckelsen, Mitchel Berger, Shawn Hervey-Jumper, John Golfinos, Matija Snuderl, Sandra Camelo-Piragua, Christian Freudiger, Honglak Lee, and Daniel Orringer
+    conference: NATURE MEDICINE · 2023
+    url: https://deepglioma.mlins.org/
+    pdf: https://doi.org/10.1038/s41591-023-02252-4
+    image: "/assets/img/paper_logo/hollon2023artificial.webp"
+    venue_logo: "/assets/img/venues/nature_medicine_logo.png"
+    code: https://github.com/MLNeurosurg/deepglioma
+    demo: https://deepglioma.mlins.org/
+    pills:
+      - title: Interactive Demo
+        link: https://deepglioma.mlins.org/
+      - title: Paper
+        link: https://doi.org/10.1038/s41591-023-02252-4
+      - title: arXiv
+        link: https://arxiv.org/abs/2303.13610
+      - title: Github
+        link: https://github.com/MLNeurosurg/deepglioma
+
+  - title: Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy
+    authors: Cheng Jiang<sup>*</sup>, Xinhai Hou<sup>*</sup>, Akhil Kondepudi, Asadur Chowdury, Christian W. Freudiger, Daniel A. Orringer, Honglak Lee, and Todd C. Hollon
+    conference: CVPR · 2023
+    url: https://hidisc.mlins.org/
+    pdf: https://arxiv.org/abs/2303.01605
+    image: "/assets/img/paper_logo/jiang2023hierarchical.webp"
+    code: https://github.com/MLNeurosurg/hidisc
+    page: https://hidisc.mlins.org/
+    pills:
+      - title: Website
+        link: https://hidisc.mlins.org/
+      - title: arXiv
+        link: https://arxiv.org/abs/2303.01605
+      - title: Github
+        link: https://github.com/MLNeurosurg/hidisc
+
+  - title: Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks
+    authors: Todd C Hollon, Balaji Pandian, Arjun R Adapa, Esteban Urias, Akshay V Save, Siri Sahib S Khalsa, Daniel G Eichberg, Randy S D'Amico, Zia U Farooq, Spencer Lewis, Petros D Petridis, Tamara Marie, Ashish H Shah, Hugh J L Garton, Cormac O Maher, Jason A Heth, Erin L McKean, Stephen E Sullivan, Shawn L Hervey-Jumper, Parag G Patil, B Gregory Thompson, Oren Sagher, Guy M McKhann 2nd, Ricardo J Komotar, Michael E Ivan, Matija Snuderl, Marc L Otten, Timothy D Johnson, Michael B Sisti, Jeffrey N Bruce, Karin M Muraszko, Jay Trautman, Christian W Freudiger, Peter Canoll, Honglak Lee, Sandra Camelo-Piragua, Daniel A Orringer
+    conference: NATURE MEDICINE · 2020
+    url: https://doi.org/10.1038/s41591-019-0715-9
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2020near.pdf
+    image: "/assets/img/paper_logo/hollon2020near.webp"
+    venue_logo: "/assets/img/venues/nature_medicine_logo.png"
+    code: https://github.com/MLNeurosurg/srh_cnn
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2020near.pdf
+      - title: Github
+        link: https://github.com/MLNeurosurg/srh_cnn
+      - title: Video
+        link: https://www.youtube.com/watch?v=UZZ08_fC7UU
+      - title: NYTimes Article
+        link: https://www.nytimes.com/2020/01/06/health/artificial-intelligence-brain-cancer.html

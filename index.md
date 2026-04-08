@@ -16,7 +16,6 @@ The team, the team, the team.
 - **[Feb 2026]** ***Prima*** is published in *Nature Biomedical Engineering*.
 - **[Feb 2026]** Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
 - **[Feb 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR*.
-- **[Feb 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR*.
 - More news [here](/news/).
 
 ## MLiNS Research Programs
