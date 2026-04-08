@@ -2,9 +2,10 @@
 main:
   - title: Health system learning achieves generalist neuroimaging models
     authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, Renly Hou, Cheng Jiang, Asadur Chowdury, Ashok Srinivasan, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
-    conference_short: arXiv
-    conference: arXiv · 2025
-    venue_logo: /assets/img/venues/neurovfm.png
+    # conference_short: arXiv
+    conference: arXiv
+    image: /assets/img/paper_logo/neurovfm.png
+    venue_logo: "/assets/img/venues/arxiv-logo.png
     url: https://arxiv.org/abs/2511.18640
     pdf: https://arxiv.org/pdf/2511.18640
     demo: https://neurovfm.mlins.org/
