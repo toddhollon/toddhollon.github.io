@@ -5,7 +5,7 @@ main:
     # conference_short: arXiv
     conference: arXiv
     image: /assets/img/paper_logo/neurovfm.png
-    venue_logo: "/assets/img/venues/arxiv-logo.png
+    venue_logo: "/assets/img/venues/arxiv-logo.png"
     url: https://arxiv.org/abs/2511.18640
     pdf: https://arxiv.org/pdf/2511.18640
     demo: https://neurovfm.mlins.org/
