@@ -33,7 +33,7 @@ favicon_dark: /assets/img/lab_logo/black_back_white_letter.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme

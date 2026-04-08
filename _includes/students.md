@@ -11,20 +11,15 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if member.image %}
     <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if member.role %}
-    <abbr class="badge">{{ member.role }}</abbr>
-    {% endif %}
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">{% if member.website %}<a href="{{ member.website }}" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</div>
-    {% if member.image == nil %}
     {% if member.role %}
     <div class="author">{{ member.role }}</div>
     {% endif %}
-    {% endif %}
     {% if member.research_focus %}
-    <div class="author"><em>Research focus:</em> {{ member.research_focus }}</div>
+    <div class="author"><strong>Research focus:</strong> {{ member.research_focus }}</div>
     {% endif %}
     {% if member.bio %}
     <div class="periodical">{{ member.bio | markdownify }}</div>
