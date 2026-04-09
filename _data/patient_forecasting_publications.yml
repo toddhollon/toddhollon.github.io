@@ -10,6 +10,27 @@ main:
       - title: PDF
         link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018machine.pdf
 
+  - title: 'Outcome of Transsphenoidal Surgery for Cushing Disease: A Single-Center Experience Over 32 Years'
+    authors: William F Chandler, Ariel L Barkan, Todd Hollon, Alla Sakharova, Jayson Sack, Barunashish Brahma, David E Schteingart
+    conference: NEUROSURGERY · 2016
+    venue_logo: "/assets/img/venues/neurosurgery.png"
+    url: https://doi.org/10.1227/neu.0000000000001011
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/chandler2016outcome.pdf
+    image: "/assets/img/paper_logo/chandler2016outcome.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/chandler2016outcome.pdf
+
+  - title: 'Ventriculoscopic Surgery for Cystic Retrochiasmatic Craniopharyngiomas: Indications, Surgical Technique, and Short-Term Patient Outcomes'
+    authors: Todd C Hollon, Luis E Savastano, David Altshuler, Ariel L Barkan, Stephen E Sullivan
+    conference: OPERATIVE NEUROSURGERY · 2017
+    url: https://doi.org/10.1093/ons/opx220
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2017ventriculoscopic.pdf
+    image: "/assets/img/paper_logo/hollon2017ventriculoscopic.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2017ventriculoscopic.pdf
+
   - title: Clinical Factors Associated With ICU-Specific Care Following Supratentoral Brain Tumor Resection and Validation of a Risk Prediction Score
     authors: Lynze R Franko, Todd Hollon, Joseph Linzey, Christopher Roark, Venkatakrishna Rajajee, Kyle Sheehan, Magnus Teig, Shawn Hervey-Jumper, Jason Heth, Daniel Orringer, Craig A Williamson
     conference: CRITICAL CARE MEDICINE · 2018

@@ -12,7 +12,7 @@ The team, the team, the team.
 
 ## MLiNS News
 
-- **[Feb 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR* as *Oral Paper*.
+- **[April 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR* as *Oral Paper*.
 - **[Apr 2026]** Samir Harake wins UM Khan Neurosurgery Award for best medical student.
 - **[Apr 2026]** Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
 - **[Feb 2026]** [***Prima***](https://www.nature.com/articles/s41551-025-01608-0) is published in *Nature Biomedical Engineering*.
@@ -21,9 +21,9 @@ The team, the team, the team.
 
 ## MLiNS Research Programs
 
-- **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology
+- **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology, brain tumor imaging
 - **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
-<!-- - **[Multimodal AI](/research/multimodal-medical-ai/)** - vision-language modeling, health system learning -->
+- **[(Biomedical) Computer Vision](/research/computer-vision/)** — visual representation learning, vision-language modeling, image restoration
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 
 ## Selected Publications {#selected-publications}
