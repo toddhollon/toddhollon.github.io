@@ -5,16 +5,14 @@ permalink: /research/neuroimaging/
 
 ## Neuroimaging
 
-**Themes:** AI for computed tomography and magnetic resonance imaging
-
-<!-- Add an overview of this research program here: datasets, models, and clinical translation goals.
+A focus of the MLiNS lab is to develop clinically grounded artificial intelligence for neuroimaging by learning directly from routine health system data at scale. Our work has advanced from HLIP, which introduced hierarchical language-image pretraining for uncurated 3D MRI and CT studies, to ItemizedCLIP, which learns more complete and explainable visual representations from structured radiology supervision. Building on these foundations, we developed NeuroVFM, a generalist neuroimaging foundation model trained on millions of clinical MRI and CT volumes, and Prima, a health system-scale vision-language model for brain MRI designed for real-world diagnosis, triage, and clinical decision support. Together, this research program aims to create neuroimaging models that are accurate, interpretable, fair, and deployable across the full spectrum of neurologic disease, while establishing the health system itself as a powerful engine for medical AI discovery.
 
 ### Figures
 
-Add images with Markdown: `![Caption](path/to/image.png)` (paths from site root often start with `/assets/...`).
+![Overview of health system-scale neuroimaging data, NeuroVFM self-supervised pretraining, and clinical evaluation with grounded findings and triage.](/assets/img/research/neuroimaging_overview.png)
 
 ### Related publications
 
-Link to the [full publications list](/publications/) or list key papers below. -->
+{% include bibliography_list.html collection=site.data.neuroimaging_publications.main %}
 
 [← Back to home](/)

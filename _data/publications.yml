@@ -27,6 +27,18 @@ main:
   code: https://github.com/RenlyH/CodeV
   image: "/assets/img/paper_logo/codev2026.png"
   url: https://arxiv.org/abs/2511.19661
+- title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
+  authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
+  conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH · 2026
+  venue_logo: "/assets/img/venues/tmlr.png"
+  url: https://openreview.net/forum?id=WxHf4EcBWA
+  pdf: "/assets/papers/5990_Towards_Scalable_Language.pdf"
+  image: "/assets/img/paper_logo/zhao2026hlip.png"
+  pills:
+  - title: OpenReview
+    link: https://openreview.net/forum?id=WxHf4EcBWA
+  - title: PDF
+    link: "/assets/papers/5990_Towards_Scalable_Language.pdf"
 - title: Intelligent histology for tumor neurosurgery
   authors: Xinhai Hou <sup>*</sup>, Akhil V. Kondepudi <sup>*</sup>, Cheng Jiang <sup>*</sup>, Yiwei Lyu, Edward Samir Harake, Asadur Chowdury, Anna-Katharina Meißner, Volker Neuschmelting, David Reinecke, Gina Fürtjes, Georg Widhalm, Lisa Irina Körner, Jakob Straehle, Nicolas Neidert, Pierre Scheffler, Jürgen Beck, Michael E. Ivan, Ashish H. Shah, Aditya S. Pandey, Sandra Camelo-Piragua, Dieter Henrik Heiland, Oliver Schnell, Chris Freudiger, Jacob Young, Melike Pekmezci, Katie Scotford, Shawn Hervey-Jumper, Daniel Orringer, Mitchel Berger, and Todd Hollon
   conference: NEURO-ONCOLOGY ADVANCES · 2026

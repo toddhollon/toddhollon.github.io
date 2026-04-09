@@ -31,6 +31,19 @@ main:
     image: /assets/img/paper_logo/codev2026.png
     url: https://arxiv.org/abs/2511.19661
 
+  - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
+    authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
+    conference: Transactions on Machine Learning Research, 2026
+    venue_logo: /assets/img/venues/tmlr.png
+    url: https://openreview.net/forum?id=WxHf4EcBWA
+    pdf: /assets/papers/5990_Towards_Scalable_Language.pdf
+    image: /assets/img/paper_logo/zhao2026hlip.png
+    pills:
+      - title: OpenReview
+        link: https://openreview.net/forum?id=WxHf4EcBWA
+      - title: PDF
+        link: /assets/papers/5990_Towards_Scalable_Language.pdf
+
   - title: Foundation models for fast, label-free detection of glioma infiltration
     authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
     # conference_short: Nature

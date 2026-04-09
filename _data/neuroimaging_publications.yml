@@ -1,0 +1,61 @@
+# Related publications for /research/neuroimaging/ (same schema as publications.yml).
+main:
+  - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
+    authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
+    conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH · 2026
+    venue_logo: "/assets/img/venues/tmlr.png"
+    url: https://openreview.net/forum?id=WxHf4EcBWA
+    pdf: "/assets/papers/5990_Towards_Scalable_Language.pdf"
+    image: "/assets/img/paper_logo/zhao2026hlip.png"
+    pills:
+      - title: OpenReview
+        link: https://openreview.net/forum?id=WxHf4EcBWA
+      - title: PDF
+        link: "/assets/papers/5990_Towards_Scalable_Language.pdf"
+
+  - title: Learning complete and explainable visual representations from itemized text supervision
+    authors: Yiwei Lyu, et al.
+    conference: Computer Vision and Pattern Recognition, 2026
+    venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+    pdf: https://arxiv.org/pdf/2512.11141
+    code: https://github.com/MLNeurosurg/ItemizedCLIP
+    image: "/assets/img/paper_logo/itemizedclip2026.png"
+    url: https://arxiv.org/abs/2512.11141
+
+  - title: Health system learning achieves generalist neuroimaging models
+    authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, Renly Hou, Cheng Jiang, Asadur Chowdury, Ashok Srinivasan, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
+    conference: arXiv · 2026
+    venue_logo: "/assets/img/venues/arxiv-logo.png"
+    url: https://arxiv.org/abs/2511.18640
+    pdf: https://arxiv.org/pdf/2511.18640
+    image: "/assets/img/paper_logo/neurovfm.png"
+    demo: https://neurovfm.mlins.org/
+    pills:
+      - title: arXiv
+        link: https://arxiv.org/abs/2511.18640
+      - title: PDF
+        link: https://arxiv.org/pdf/2511.18640
+      - title: Demo
+        link: https://neurovfm.mlins.org/
+      - title: Hugging Face
+        link: https://huggingface.co/collections/mlinslab/neurovfm
+
+  - title: Learning neuroimaging models with health system-scale data
+    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, et al.
+    conference: Nature Biomedical Engineering, 2026
+    venue_logo: "/assets/img/venues/nBME.jpg"
+    pdf: "/assets/papers/Prima_2026.pdf"
+    code: https://github.com/MLNeurosurg/Prima
+    image: "/assets/img/paper_logo/prima2026.png"
+    demo: https://prima.mlins.org/
+    url: https://prima.mlins.org/
+
+  - title: Generating novel pituitary datasets from open-source imaging data and deep volumentric segmentation
+    authors: Rachel Gologorsky, Edward Harake, Grace von Oiste, Mustafa Nasir-Moin, William Couldwell, Eric Oermann, and Todd Hollon
+    conference: PITUITARY · 2022
+    url: https://doi.org/10.1007/s11102-022-01255-7
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/gologorsky2022generating.pdf
+    image: "/assets/img/paper_logo/gologorsky2022generating.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/gologorsky2022generating.pdf
