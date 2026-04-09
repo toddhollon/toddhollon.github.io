@@ -66,7 +66,7 @@ main:
   venue_logo: "/assets/img/venues/star_protocols.png"
   url: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
   pdf: "/assets/papers/1-s2.0-S2666166725006276-main.pdf"
-  image: "/assets/img/paper_logo/mlins.webp"
+  image: "/assets/img/paper_logo/bhattacharya2025star_protocol_workflow.png"
   pills:
   - title: Article
     link: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
@@ -343,6 +343,7 @@ main:
 - title: Rapid, label-free detection of diffuse glioma recurrence using intraoperative stimulated Raman histology and deep neural networks
   authors: Todd C Hollon, Balaji Pandian, Esteban Urias, Akshay V Save, Arjun R Adapa, Sudharsan Srinivasan, Neil K Jairath, Zia Farooq, Tamara Marie, Wajd N Al-Holou, Karen Eddy, Jason A Heth, Siri Sahib S Khalsa, Kyle Conway, Oren Sagher, Jeffrey N Bruce, Peter Canoll, Christian W Freudiger, Sandra Camelo-Piragua, Honglak Lee, Daniel A Orringer
   conference: NEURO-ONCOLOGY · 2021
+  venue_logo: "/assets/img/venues/neuro_oncology.png"
   url: https://doi.org/10.1093/neuonc/noaa162
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2021rapid.pdf
   image: "/assets/img/paper_logo/hollon2021rapid.webp"
@@ -528,6 +529,7 @@ main:
 - title: Rapid Intraoperative Diagnosis of Pediatric Brain Tumors Using Stimulated Raman Histology
   authors: Todd C Hollon, Spencer Lewis, Balaji Pandian, Yashar S Niknafs, Mia R Garrard, Hugh Garton, Cormac O Maher, Kathryn McFadden, Matija Snuderl, Andrew P Lieberman, Karin Muraszko, Sandra Camelo-Piragua, Daniel A Orringer
   conference: CANCER RESEARCH · 2018
+  venue_logo: "/assets/img/venues/cancer_research.png"
   url: https://doi.org/10.1158/0008-5472.can-17-1974
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018rapid.pdf
   image: "/assets/img/paper_logo/hollon2018rapid.webp"
@@ -641,6 +643,7 @@ main:
 - title: Cytomegalovirus contributes to glioblastoma in the context of tumor suppressor mutations
   authors: Richard L Price, Jieun Song, Katherine Bingmer, Tae Hyong Kim, Ji-Yeun Yi, Michal O Nowicki, Xiaokui Mo, Todd Hollon, Eric Murnan, Christopher Alvarez-Breckenridge, Soledad Fernandez, Balveen Kaur, Andreana Rivera, Michael Oglesbee, Charles Cook, E Antonio Chiocca, Chang-Hyuk Kwon
   conference: CANCER RESEARCH · 2013
+  venue_logo: "/assets/img/venues/cancer_research.png"
   url: https://doi.org/10.1158/0008-5472.can-12-3846
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/price2013cytomegalovirus.pdf
   image: "/assets/img/paper_logo/price2013cytomegalovirus.webp"

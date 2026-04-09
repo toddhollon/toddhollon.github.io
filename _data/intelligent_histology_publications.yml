@@ -19,7 +19,7 @@ main:
     venue_logo: "/assets/img/venues/star_protocols.png"
     url: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
     pdf: "/assets/papers/1-s2.0-S2666166725006276-main.pdf"
-    image: "/assets/img/paper_logo/mlins.webp"
+    image: "/assets/img/paper_logo/bhattacharya2025star_protocol_workflow.png"
     pills:
       - title: Article
         link: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
