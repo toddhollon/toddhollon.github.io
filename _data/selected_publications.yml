@@ -1,20 +1,20 @@
 # Shown on the homepage (_includes/selected_publications.md). Full list: _data/publications.yml + /publications/
 main:
   - title: Learning neuroimaging models with health system-scale data
-    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, et al.
+    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
     # conference_short: nBME
-    conference: Nature Biomedical Engineering, 2026
+    conference: NATURE BIOMEDICAL ENGINEERING, 2026
     venue_logo: /assets/img/venues/nBME.jpg
     pdf: /assets/papers/Prima_2026.pdf
     code: https://github.com/MLNeurosurg/Prima
     image: /assets/img/paper_logo/prima2026.png
     demo: https://prima.mlins.org/
-    url: https://prima.mlins.org/
+    url: https://www.nature.com/articles/s41551-025-01608-0
 
   - title: Learning complete and explainable visual representations from itemized text supervision
-    authors: Yiwei Lyu, et al.
+    authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
     # conference_short: CVPR
-    conference: Computer Vision and Pattern Recognition, 2026
+    conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
     venue_logo: /assets/img/venues/cvpr_cvf.jpg
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
@@ -22,9 +22,9 @@ main:
     url: https://arxiv.org/abs/2512.11141
 
   - title: "CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization"
-    authors: Xinhai Hou, et al.
+    authors: Xinhai Hou, Shaoyuan Xu, Manan Biyani, Moyan Li, Jia Liu, Todd C. Hollon, and Bryan Wang
     # conference_short: CVPR
-    conference: Computer Vision and Pattern Recognition, 2026
+    conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
     venue_logo: /assets/img/venues/cvpr_cvf.jpg
     pdf: https://arxiv.org/pdf/2511.19661 
     code: https://github.com/RenlyH/CodeV
@@ -33,7 +33,7 @@ main:
 
   - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
     authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
-    conference: Transactions on Machine Learning Research, 2026
+    conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH, 2026
     venue_logo: /assets/img/venues/tmlr.png
     url: https://openreview.net/forum?id=WxHf4EcBWA
     pdf: /assets/papers/5990_Towards_Scalable_Language.pdf
@@ -47,7 +47,7 @@ main:
   - title: Foundation models for fast, label-free detection of glioma infiltration
     authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
     # conference_short: Nature
-    conference: Nature 2025
+    conference: NATURE 2025
     venue_logo: /assets/img/venues/nature.png
     pdf: /assets/papers/fastglioma.pdf
     code: https://github.com/MLNeurosurg/fastglioma

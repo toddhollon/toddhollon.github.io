@@ -14,7 +14,7 @@ main:
         link: "/assets/papers/5990_Towards_Scalable_Language.pdf"
 
   - title: Learning complete and explainable visual representations from itemized text supervision
-    authors: Yiwei Lyu, et al.
+    authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
     conference: Computer Vision and Pattern Recognition, 2026
     venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
     pdf: https://arxiv.org/pdf/2512.11141
@@ -41,14 +41,14 @@ main:
         link: https://huggingface.co/collections/mlinslab/neurovfm
 
   - title: Learning neuroimaging models with health system-scale data
-    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, et al.
+    authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
     conference: Nature Biomedical Engineering, 2026
     venue_logo: "/assets/img/venues/nBME.jpg"
     pdf: "/assets/papers/Prima_2026.pdf"
     code: https://github.com/MLNeurosurg/Prima
     image: "/assets/img/paper_logo/prima2026.png"
     demo: https://prima.mlins.org/
-    url: https://prima.mlins.org/
+    url: https://www.nature.com/articles/s41551-025-01608-0
 
   - title: Generating novel pituitary datasets from open-source imaging data and deep volumentric segmentation
     authors: Rachel Gologorsky, Edward Harake, Grace von Oiste, Mustafa Nasir-Moin, William Couldwell, Eric Oermann, and Todd Hollon
