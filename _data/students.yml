@@ -25,13 +25,13 @@ main:
 
   - name: Renly Hou
     role: PhD Candidate
-    research_focus: Agentic models in medical AI
+    research_focus: Agentic models for medical AI
     image: /assets/img/people/xinhaih.webp
     website: https://renlyh.github.io/
 
   - name: Yiwei Lyu
     role: PhD Candidate
-    research_focus: Vision-language models
+    research_focus: Granular and global vision-language models
     image: /assets/img/people/yiweilyu.webp
     website: https://lvyiwei1.github.io/
 

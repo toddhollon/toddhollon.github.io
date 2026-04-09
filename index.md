@@ -24,7 +24,7 @@ The team, the team, the team.
 - **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology
 - **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
 <!-- - **[Multimodal AI](/research/multimodal-medical-ai/)** - vision-language modeling, health system learning -->
-- **[Patient forecasting](/research/patient-forecasting/)** - outcome and survival prediction
+- **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 
 ## Selected Publications {#selected-publications}
 

@@ -13,6 +13,19 @@ main:
       - title: DOI
         link: https://doi.org/10.1093/noajnl/vdag065
 
+  - title: Protocol to annotate and automate single-cell instance segmentation on stimulated Raman histology using deep learning
+    authors: Abhishek Bhattacharya, Eric Landgraf, Cheng Jiang, Asadur Chowdury, Akhil Kondepudi, Lin Wang, Edward S. Harake, Xinhai Hou, Lisa Walsh, and Todd C. Hollon
+    conference: STAR PROTOCOLS · 2025
+    venue_logo: "/assets/img/venues/star_protocols.png"
+    url: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
+    pdf: "/assets/papers/1-s2.0-S2666166725006276-main.pdf"
+    image: "/assets/img/paper_logo/mlins.webp"
+    pills:
+      - title: Article
+        link: https://www.sciencedirect.com/science/article/pii/S2666166725006276?via%3Dihub
+      - title: PDF
+        link: "/assets/papers/1-s2.0-S2666166725006276-main.pdf"
+
   - title: Foundation models for fast, label-free detection of glioma infiltration
     authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
     conference: Nature 2025
