@@ -23,7 +23,7 @@ The team, the team, the team.
 
 - **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology, brain tumor imaging
 - **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
-- **[(Biomedical) Computer Vision](/research/computer-vision/)** — visual representation learning, vision-language modeling, image restoration
+- **[Biomedical Computer Vision](/research/computer-vision/)** - visual representation learning, vision-language modeling
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 
 ## Selected Publications {#selected-publications}

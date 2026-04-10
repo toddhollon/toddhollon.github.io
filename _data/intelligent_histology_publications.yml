@@ -89,3 +89,13 @@ main:
         link: https://www.youtube.com/watch?v=UZZ08_fC7UU
       - title: NYTimes Article
         link: https://www.nytimes.com/2020/01/06/health/artificial-intelligence-brain-cancer.html
+
+  - title: Automated histologic diagnosis of CNS tumors with machine learning
+    authors: Siri Sahib S Khalsa, Todd C Hollon, Arjun Adapa, Esteban Urias, Sudharsan Srinivasan, Neil Jairath, Julianne Szczepanski, Peter Ouillette, Sandra Camelo-Piragua, Daniel A Orringer
+    conference: CNS ONCOLOGY · 2020
+    url: https://doi.org/10.2217/cns-2020-0003
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/khalsa2020automated.pdf
+    image: "/assets/img/paper_logo/khalsa2020automated.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/khalsa2020automated.pdf
