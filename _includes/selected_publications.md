@@ -28,6 +28,9 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
+      {% if link.description %}
+      <div class="pub-description">{{ link.description | markdownify }}</div>
+      {% endif %}
     <div class="links">
       {% if link.pills and link.pills.size > 0 %}
       {% for pill in link.pills %}

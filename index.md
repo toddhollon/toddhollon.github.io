@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 
-I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery (MLiNS) Lab***. We work on problems at the intersection of neuroscience, computer science, and bioinformatics.
+I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery (MLiNS) Lab***. Our research focuses on developing machine intelligence that better understands human health and disease, especially related to the nervous system. We aim to discover better data streams, model architectures, and learning objectives for healthcare. Our technical contributions include improved visual self-supervision, hierarchical and multimodal representation learning, and medical foundation modeling.
 
 ## [Photos and Bios of MLiNS Team](/students/)
 
@@ -12,22 +12,23 @@ The team, the team, the team.
 
 ## MLiNS News
 
-- **[April 2026]** Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR* as *Oral Paper*.
-- **[Apr 2026]** Samir Harake wins UM Khan Neurosurgery Award for best medical student.
-- **[Apr 2026]** Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
-- **[Feb 2026]** [***Prima***](https://www.nature.com/articles/s41551-025-01608-0) is published in *Nature Biomedical Engineering*.
-- **[Feb 2026]** Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
+- **Apr 2026** - Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR* as *Oral Paper*.
+- **Apr 2026** - Samir Harake wins UM Khan Neurosurgery Award for best medical student.
+- **Apr 2026** - Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
+- **Feb 2026** - [***Prima***](https://www.nature.com/articles/s41551-025-01608-0) is published in *Nature Biomedical Engineering*.
+- **Feb 2026** - Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
 - More news [here](/news/).
 
-## MLiNS Research Programs
+## MLiNS Research Themes
 
 - **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology, brain tumor imaging
 - **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
 - **[Biomedical Computer Vision](/research/computer-vision/)** - visual representation learning, vision-language modeling
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
-- **[Collaborative Neuro-Oncology](/research/patient-forecasting/)** - team science for brain tumor research
+- **[Collaborative Neuro-Oncology](/research/collaborative-neuro-oncology/)** - team science in brain tumor research
 
-## Selected Publications {#selected-publications}
+
+## Selected Publications and [Complete List](/publications/)  {#selected-publications}
 
 {% include_relative _includes/selected_publications.md %}
 
@@ -35,8 +36,17 @@ The team, the team, the team.
 
 {% include_relative _includes/selected_preprints.md %}
 
-## [Full list of lab papers.](/publications/)
+<!-- ## [Full list of lab papers.](/publications/) -->
 
-<!-- ## Funding sources -->
+## Support for MLiNS Lab
+- [NIH National Cancer Institute (NCI)](https://reporter.nih.gov/search/fasIncKaf0K7CqBQs0Fyiw/project-details/11227784)
+- [NIH National Institute of Neurological Disorders and Stroke (NINDS)](https://www.nrcdp.org/)
+- [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/programs-resources/imaging/community/?cycle=advancing-imaging-through-collaborative-projects)
+- [Ian's Friends Foundation (Phil and Cheryl Yagoda)](https://iansfriendsfoundation.com/)
+- [UM Frankel Institute for Heart and Brain Health](https://medresearch.umich.edu/labs-departments/centers/frankelihbh)
+- [UM Scouts Program](https://medresearch.umich.edu/office-research/about-office-research/research-scouts/research-scouts-scholars-2023)
+- [UM Department of Neurosurgery](https://medschool.umich.edu/departments/neurosurgery)
+- [Scoliosis Research Society](https://www.srs.org/)
+- [Cook Family Foundation](https://www.cookfamilyfoundation.org/)
 
-<!-- {% include_relative _includes/services.md %} -->
+<!-- consider adding links to each R01 -->

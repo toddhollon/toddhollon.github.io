@@ -43,6 +43,8 @@ main:
   - title: Learning neuroimaging models with health system-scale data
     authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
     conference: Nature Biomedical Engineering, 2026
+    description: >
+      Introduces **Prima**, a visual foundation model for brain MRI trained at health-system scale for diagnosis, triage, and clinically grounded decision support.
     venue_logo: "/assets/img/venues/nBME.jpg"
     pdf: "/assets/papers/Prima_2026.pdf"
     code: https://github.com/MLNeurosurg/Prima

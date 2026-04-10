@@ -1,0 +1,42 @@
+# Related publications for /research/collaborative-neuro-oncology/ (same schema as publications.yml).
+main:
+  - title: 'Combined cytotoxic and immune-stimulatory gene therapy for primary adult high-grade glioma: a phase 1, first-in- human trial'
+    authors: Yoshie Umemura, Daniel Orringer, Larry Junck, Maria L Varela, Molly E J West, Syed M Faisal, Andrea Comba, Jason Heth, Oren Sagher, Denise Leung, Aaron Mammoser, Shawn Hervey-Jumper, Daniel Zamler, Viveka N Yadav, Patrick Dunn, Wajd Al-Holou, Todd Hollon, Michelle M Kim, Daniel R Wahl, Sandra Camelo-Piragua, Andrew P Lieberman, Sriram Venneti, Paul McKeever, Theodore Lawrence, Ryo Kurokawa, Karen Sagher, David Altshuler, Lili Zhao, Karin Muraszko, Maria G Castro, and Pedro R Lowenstein
+    conference: The Lancet Oncology · 2023
+    venue_logo: "/assets/img/venues/lancet_oncology.png"
+    url: https://doi.org/10.1016/S1470-2045(23)00347-9
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/umemura2023combined.pdf
+    image: "/assets/img/paper_logo/umemura2023combined.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/umemura2023combined.pdf
+  - title: Localization of protoporphyrin IX during glioma-resection surgery via paired stimulated Raman histology and fluorescence microscopy
+    authors: Mustafa Nasir-Moin, Lisa Irina Wadiura, Vlad Sacalean, Devin Juros, Misha Movahed-Ezazi, Emily K. Lock, Andrew Smith, Matthew Lee, Hannah Weiss, Michael Müther, Daniel Alber, Sujay Ratna, Camila Fang, Eric Suero-Molina, Sönke Hellwig, Walter Stummer, Karl Rössler, Johannes A. Hainfellner, Georg Widhalm, Barbara Kiesel, David Reichert, Mario Mischkulnig, Rajan Jain, Jakob Straehle, Nicolas Neidert, Oliver Schnell, Jürgen Beck, Jay Trautman, Steve Pastore, Donato Pacione, Dimitris Placantonakis, Eric Karl Oermann, John G. Golfinos, Todd C. Hollon, Matija Snuderl, Christian W. Freudiger, Dieter Henrik Heiland, and Daniel A. Orringer
+    conference: NATURE BIOMEDICAL ENGINEERING · 2024
+    venue_logo: "/assets/img/venues/nBME.jpg"
+    url: https://doi.org/10.1038/s41551-024-01217-3
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/nasir2024localization.pdf
+    image: "/assets/img/paper_logo/nasir2024localization.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/nasir2024localization.pdf
+  - title: Spatiotemporal analysis of glioma heterogeneity reveals COL1A1 as an actionable target to disrupt tumor progression
+    authors: Andrea Comba, Syed M. Faisal, Patrick J. Dunn, Anna E. Argento, Todd C. Hollon, Wajd N. Al-Holou, Maria Luisa Varela, Daniel B. Zamler, Gunnar L. Quass, Pierre F. Apostolides, Clifford Abel II, Christine E. Brown, Phillip E. Kish, Alon Kahana, Celina G. Kleer, Sebastien Motsch, Maria G. Castro and Pedro R. Lowenstein
+    conference: NATURE COMMUNICATIONS · 2022
+    venue_logo: "/assets/img/venues/nature_comms.png"
+    url: https://doi.org/10.1038/s41467-022-31340-1
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/comba2021uncovering.pdf
+    image: "/assets/img/paper_logo/comba2022spatiotemporal.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/comba2021uncovering.pdf
+  - title: Methods and Impact for Using Federated Learning to Collaborate on Clinical Research
+    authors: Alexander T M Cheung, Mustafa Nasir-Moin, Young Joon Fred Kwon, Jiahui Guan, Chris Liu, Lavender Jiang, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama A Al-Aswad, Yindalon Aphinyanaphongs, and Eric Karl Oermann
+    conference: NEUROSURGERY · 2022
+    venue_logo: "/assets/img/venues/neurosurgery.png"
+    url: https://doi.org/10.1227/neu.0000000000002198
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/cheung2022methods.pdf
+    image: "/assets/img/paper_logo/cheung2022methods.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/cheung2022methods.pdf

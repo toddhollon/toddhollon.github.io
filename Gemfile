@@ -9,4 +9,11 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.5"
 
+# Ruby 3.4+ bundles fewer stdlib gems by default; Jekyll 3.8 / Liquid / kramdown / safe_yaml still need these.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "rexml"
+gem "logger"
+
 gem "webrick", "~> 1.8"

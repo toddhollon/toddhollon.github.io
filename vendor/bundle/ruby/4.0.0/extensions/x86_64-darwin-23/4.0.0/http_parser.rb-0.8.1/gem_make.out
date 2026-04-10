@@ -1,0 +1,27 @@
+current directory: /Users/toddhollon/Desktop/toddhollon.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/toddhollon/Desktop/toddhollon.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260410-79195-388g2e sitelibdir\=./.gem.20260410-79195-388g2e clean
+
+current directory: /Users/toddhollon/Desktop/toddhollon.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260410-79195-388g2e sitelibdir\=./.gem.20260410-79195-388g2e
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+2 warnings generated.
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/4.0.2/lib/libruby.4.0.dylib) was built for newer macOS version (14.0) than being linked (11.0)
+
+current directory: /Users/toddhollon/Desktop/toddhollon.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260410-79195-388g2e sitelibdir\=./.gem.20260410-79195-388g2e install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260410-79195-388g2e
+
+current directory: /Users/toddhollon/Desktop/toddhollon.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260410-79195-388g2e sitelibdir\=./.gem.20260410-79195-388g2e clean

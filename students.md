@@ -5,7 +5,7 @@ permalink: /students/
 
 ## Lab members
 
-Best part of my day is working with these people.
+The best part of my day is working with these people.
 
 {% include_relative _includes/students.md %}
 
