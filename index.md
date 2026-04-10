@@ -25,6 +25,7 @@ The team, the team, the team.
 - **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
 - **[Biomedical Computer Vision](/research/computer-vision/)** - visual representation learning, vision-language modeling
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
+- **[Collaborative Neuro-Oncology](/research/patient-forecasting/)** - team science for brain tumor research
 
 ## Selected Publications {#selected-publications}
 
