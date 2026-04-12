@@ -10,6 +10,7 @@ I am an Assistant Professor at the University of Michigan and the Principal Inve
 
 The team, the team, the team.
 
+
 ## MLiNS News
 
 - **Apr 2026** - Xinhai Hou's paper, ***CodeV***, is accepted at *CVPR* as *Oral Paper*.
@@ -27,7 +28,6 @@ The team, the team, the team.
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 - **[Collaborative Neuro-Oncology](/research/collaborative-neuro-oncology/)** - team science in brain tumor research
 
-
 ## Selected Publications and [Complete List](/publications/)  {#selected-publications}
 
 {% include_relative _includes/selected_publications.md %}
@@ -36,7 +36,19 @@ The team, the team, the team.
 
 {% include_relative _includes/selected_preprints.md %}
 
-<!-- ## [Full list of lab papers.](/publications/) -->
+## [MLiNS Videos and Podcasts](/videos/)
+
+<a href="https://www.youtube.com/watch?v=l_y0rTK4Jdc"><img src="https://img.youtube.com/vi/l_y0rTK4Jdc/hqdefault.jpg" alt="Michigan MICDE interview — watch on YouTube" width="240" height="180"></a>
+
+[Michigan MICDE interview (YouTube)](https://www.youtube.com/watch?v=l_y0rTK4Jdc&t)
+
+<a href="https://www.youtube.com/watch?v=o-OJhH49F7o"><img src="https://i.ytimg.com/an_webp/o-OJhH49F7o/mqdefault_6s.webp?du=3000&sqp=CLKX784G&rs=AOn4CLA_VkFNrlSlpoUuiiCkySxaOg9J6A" alt="MICDE discussion — watch on YouTube" width="190" height="120"></a>
+
+[MICDE discussion (YouTube)](https://www.youtube.com/watch?v=o-OJhH49F7o)
+
+<a href="https://www.youtube.com/watch?v=8BbshIbl7K8"><img src="https://img.youtube.com/vi/8BbshIbl7K8/hqdefault.jpg" alt="MLiNS video — watch on YouTube" width="240" height="180"></a>
+
+[CCMB Seminar 02/12/2025](https://www.youtube.com/watch?v=8BbshIbl7K8)
 
 ## Support for MLiNS Lab
 - [NIH National Cancer Institute (NCI)](https://reporter.nih.gov/search/fasIncKaf0K7CqBQs0Fyiw/project-details/11227784)
