@@ -16,7 +16,7 @@ Talks, interviews, seminar recordings, and podcasts.
 
 [Michigan MICDE interview (YouTube)](https://www.youtube.com/watch?v=l_y0rTK4Jdc&t=313s)
 
-<a href="https://www.youtube.com/watch?v=o-OJhH49F7o"><img src="https://i.ytimg.com/an_webp/o-OJhH49F7o/mqdefault_6s.webp?du=3000&sqp=CLKX784G&rs=AOn4CLA_VkFNrlSlpoUuiiCkySxaOg9J6A" alt="MICDE discussion — watch on YouTube" width="190" height="120"></a>
+<a href="https://www.youtube.com/watch?v=o-OJhH49F7o"><img src="https://img.youtube.com/vi/o-OJhH49F7o/hqdefault.jpg" alt="MICDE discussion — watch on YouTube" width="240" height="180"></a>
 
 [MICDE discussion (YouTube)](https://www.youtube.com/watch?v=o-OJhH49F7o)
 

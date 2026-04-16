@@ -102,7 +102,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 140px; width: min(305px, calc(100% - 10px)); max-width: 100%; margin: 5px; object-fit: cover; box-sizing: border-box; }
 
-.publications ol.bibliography li .venue-logo { display: block; max-height: 54px; max-width: min(292px, calc(100% - 10px)); width: auto; height: auto; margin: 0 5px 6px 5px; object-fit: contain; object-position: left center; filter: brightness(0.95); box-sizing: border-box; }
+.publications ol.bibliography li .venue-logo { display: block; max-height: 67.5px; max-width: min(365px, calc(100% - 10px)); width: auto; height: auto; margin: 0 5px 6px 5px; object-fit: contain; object-position: left center; filter: brightness(0.95); box-sizing: border-box; }
 
 
 .publications ol.bibliography li .col-sm-9 { min-width: 0; box-sizing: border-box; }

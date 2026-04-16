@@ -16,7 +16,7 @@ main:
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
     conference: Computer Vision and Pattern Recognition, 2026
-    venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+    venue_logo: "/assets/img/venues/cvpr.png"
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
     image: "/assets/img/paper_logo/itemizedclip2026.png"

@@ -12,12 +12,46 @@ main:
     image: /assets/img/paper_logo/prima2026.png
     demo: https://prima.mlins.org/
     url: https://www.nature.com/articles/s41551-025-01608-0
-
+  - title: Foundation models for fast, label-free detection of glioma infiltration
+    authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
+    # conference_short: Nature
+    conference: NATURE 2025
+    description: >
+      **FastGlioma** is a computational pathology model for real-time detection of glioma infiltration at the surgical margin, outperforming the current standard of care.
+    venue_logo: /assets/img/venues/nature.png
+    pdf: /assets/papers/fastglioma.pdf
+    code: https://github.com/MLNeurosurg/fastglioma
+    demo: https://fastglioma.mlins.org/
+    image: /assets/img/paper_logo/fastglioma.png
+    url: https://www.nature.com/articles/s41586-024-08169-3
+  - title: AI-based molecular classification of diffuse gliomas using rapid, label-free optical imaging
+    authors: Todd Hollon, Cheng Jiang, Asadur Chowdury, Mustafa Nasir-Moin, Akhil Kondepudi, Alexander Aabedi, Arjun Adapa, Wajd Al-Holou, Jason Heth, Oren Sagher, Pedro Lowenstein, Maria Castro, Lisa Irina Wadiura, Georg Widhalm, Volker Neuschmelting, David Reinecke, Niklas von Spreckelsen, Mitchel Berger, Shawn Hervey-Jumper, John Golfinos, Matija Snuderl, Sandra Camelo-Piragua, Christian Freudiger, Honglak Lee, and Daniel Orringer
+    conference: NATURE MEDICINE · 2023
+    description: >
+      Diffuse gliomas are classified using the molecular features. **DeepGlioma** predicts the molecular genetics of brain tumors within minutes of biopsy, *in the operating*, to better inform surgical goals.
+    url: https://deepglioma.mlins.org/
+    pdf: https://doi.org/10.1038/s41591-023-02252-4
+    image: "/assets/img/paper_logo/hollon2023artificial.webp"
+    venue_logo: "/assets/img/venues/nature_medicine_logo.png"
+    code: https://github.com/MLNeurosurg/deepglioma
+    demo: https://deepglioma.mlins.org/
+    pills:
+    - title: Interactive Demo
+      link: https://deepglioma.mlins.org/
+    - title: Paper
+      link: https://doi.org/10.1038/s41591-023-02252-4
+    - title: arXiv
+      link: https://arxiv.org/abs/2303.13610
+    - title: Github
+      link: https://github.com/MLNeurosurg/deepglioma
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
     # conference_short: CVPR
     conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
-    venue_logo: /assets/img/venues/cvpr_cvf.jpg
+    description: >
+      Standard contrastive language-image pre-training can neglect objects in visual scenes. **ItemizedCLIP** forces models to learn and attend to all described items, resulting in better visual representations.
+      
+    venue_logo: /assets/img/venues/cvpr.png
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
     image: /assets/img/paper_logo/itemizedclip2026.png
@@ -27,8 +61,10 @@ main:
     authors: Xinhai Hou, Shaoyuan Xu, Manan Biyani, Moyan Li, Jia Liu, Todd C. Hollon, and Bryan Wang
     # conference_short: CVPR
     conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
-    venue_logo: /assets/img/venues/cvpr_cvf.jpg
-    pdf: https://arxiv.org/pdf/2511.19661 
+    description: >
+      Recent visual agents can score well while using image tools unfaithfully—e.g., cropping irrelevant regions or ignoring tool outputs. **CodeV** represents tools as executable Python code and trains with Tool-Aware Policy Optimization (TAPO), using process-level rewards on visual tool inputs and outputs to improve both accuracy and faithful tool use on search and broader multimodal benchmarks.
+    venue_logo: /assets/img/venues/cvpr.png
+    pdf: https://arxiv.org/pdf/2511.19661
     code: https://github.com/RenlyH/CodeV
     image: /assets/img/paper_logo/codev2026.png
     url: https://arxiv.org/abs/2511.19661
@@ -36,6 +72,8 @@ main:
   - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
     authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
     conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH, 2026
+    description: >
+      Vision–language pre-training for volumetric MRI and CT is usually limited by radiologist-curated datasets. **HLIP** instead uses hierarchical attention over slice, scan, and study to pre-train on uncurated clinical data at scale, boosting performance on public brain MRI and head CT benchmarks.
     venue_logo: /assets/img/venues/tmlr.png
     url: https://openreview.net/forum?id=WxHf4EcBWA
     pdf: /assets/papers/5990_Towards_Scalable_Language.pdf
@@ -46,16 +84,6 @@ main:
       - title: PDF
         link: /assets/papers/5990_Towards_Scalable_Language.pdf
 
-  - title: Foundation models for fast, label-free detection of glioma infiltration
-    authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
-    # conference_short: Nature
-    conference: NATURE 2025
-    venue_logo: /assets/img/venues/nature.png
-    pdf: /assets/papers/fastglioma.pdf
-    code: https://github.com/MLNeurosurg/fastglioma
-    demo: https://fastglioma.mlins.org/
-    image: /assets/img/paper_logo/fastglioma.png
-    url: https://www.nature.com/articles/s41586-024-08169-3
 
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation

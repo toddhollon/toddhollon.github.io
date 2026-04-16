@@ -58,7 +58,7 @@ main:
   - title: Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy
     authors: Cheng Jiang<sup>*</sup>, Xinhai Hou<sup>*</sup>, Akhil Kondepudi, Asadur Chowdury, Christian W. Freudiger, Daniel A. Orringer, Honglak Lee, and Todd C. Hollon
     conference: CVPR · 2023
-    venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+    venue_logo: "/assets/img/venues/cvpr.png"
     url: https://hidisc.mlins.org/
     pdf: https://arxiv.org/abs/2303.01605
     image: "/assets/img/paper_logo/jiang2023hierarchical.webp"

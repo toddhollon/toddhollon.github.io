@@ -16,7 +16,7 @@ main:
 - title: Learning complete and explainable visual representations from itemized text supervision
   authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
   conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
-  venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+  venue_logo: "/assets/img/venues/cvpr.png"
   pdf: https://arxiv.org/pdf/2512.11141
   code: https://github.com/MLNeurosurg/ItemizedCLIP
   image: "/assets/img/paper_logo/itemizedclip2026.png"
@@ -24,7 +24,7 @@ main:
 - title: 'CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization'
   authors: Xinhai Hou, Shaoyuan Xu, Manan Biyani, Moyan Li, Jia Liu, Todd C. Hollon, and Bryan Wang
   conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
-  venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+  venue_logo: "/assets/img/venues/cvpr.png"
   pdf: https://arxiv.org/pdf/2511.19661
   code: https://github.com/RenlyH/CodeV
   image: "/assets/img/paper_logo/codev2026.png"
@@ -111,7 +111,7 @@ main:
 - title: Super-resolution of biomedical volumes with 2D supervision
   authors: Cheng Jiang, Alexander Gedeon, Yiwei Lyu, Eric Landgraf, Yufeng Zhang, Xinhai Hou, Akhil Kondepudi, Asadur Chowdury, Honglak Lee, and Todd C. Hollon
   conference: CVPR WORKSHOP · 2024
-  venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+  venue_logo: "/assets/img/venues/cvpr.png"
   url: https://mlins.org/msdsr/
   pdf: https://arxiv.org/abs/2404.09425
   image: "/assets/img/paper_logo/jiang2024super.webp"
@@ -154,7 +154,7 @@ main:
 - title: Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy
   authors: Cheng Jiang<sup>*</sup>, Xinhai Hou<sup>*</sup>, Akhil Kondepudi, Asadur Chowdury, Christian W. Freudiger, Daniel A. Orringer, Honglak Lee, and Todd C. Hollon
   conference: CVPR · 2023
-  venue_logo: "/assets/img/venues/cvpr_cvf.jpg"
+  venue_logo: "/assets/img/venues/cvpr.png"
   url: https://hidisc.mlins.org/
   pdf: https://arxiv.org/abs/2303.01605
   image: "/assets/img/paper_logo/jiang2023hierarchical.webp"
