@@ -7,10 +7,13 @@ permalink: /students/
 
 The best part of my day is working with these people.
 
+[**Fun lab photos**](/students/photos/) — outings, meals, and celebrations.
+
 {% include_relative _includes/students.md %}
 
 ## Lab Alumni
 
+- **Anna-Katharina Meissner**: Neurosurgeon-scientist >> Cologne Neurosurgery
 - **Shixuan Liu**: Undergraduate Researcher (2024) >> PhD at UIUC
 - **Eric Landgraf**: Graduate Student (2024) >> Ford
 - **Alexander Gedeon**: Graduate Student (2024) >> Amazon

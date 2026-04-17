@@ -23,7 +23,7 @@ The team, the team, the team.
 ## MLiNS Research Themes
 
 - **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology, brain tumor imaging
-- **[Intelligent Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
+- **[AI-based Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
 - **[Biomedical Computer Vision](/research/computer-vision/)** - visual representation learning, vision-language modeling
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 - **[Collaborative Neuro-Oncology](/research/collaborative-neuro-oncology/)** - team science in brain tumor research
@@ -37,6 +37,10 @@ The team, the team, the team.
 {% include_relative _includes/selected_preprints.md %}
 
 ## [MLiNS Videos and Podcasts](/videos/)
+
+<a href="https://www.youtube.com/watch?v=Q12IuCaKAr8"><img src="https://img.youtube.com/vi/Q12IuCaKAr8/hqdefault.jpg" alt="MLiNS video — watch on YouTube" width="240" height="180"></a>
+
+[AI Journeys Session (YouTube)](https://www.youtube.com/watch?v=Q12IuCaKAr8)
 
 <a href="https://www.youtube.com/watch?v=l_y0rTK4Jdc"><img src="https://img.youtube.com/vi/l_y0rTK4Jdc/hqdefault.jpg" alt="Michigan MICDE interview — watch on YouTube" width="240" height="180"></a>
 

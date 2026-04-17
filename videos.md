@@ -12,6 +12,11 @@ Talks, interviews, seminar recordings, and podcasts.
 [July 2024 Journal Club Podcast: Usefulness and Accuracy of Artificial Intelligence Chatbot Responses to Patient Questions for Neurosurgical Procedures (CNS)](https://www.cns.org/publications/journal-club-podcasts/podcast-detail/july-2024-journal-club-podcast-usefulness-accuracy)
 
 ## Videos
+
+<a href="https://www.youtube.com/watch?v=Q12IuCaKAr8"><img src="https://img.youtube.com/vi/Q12IuCaKAr8/hqdefault.jpg" alt="MLiNS video — watch on YouTube" width="240" height="180"></a>
+
+[AI Journeys Session (YouTube)](https://www.youtube.com/watch?v=Q12IuCaKAr8)
+
 <a href="https://www.youtube.com/watch?v=l_y0rTK4Jdc"><img src="https://img.youtube.com/vi/l_y0rTK4Jdc/hqdefault.jpg" alt="Michigan MICDE interview — watch on YouTube" width="240" height="180"></a>
 
 [Michigan MICDE interview (YouTube)](https://www.youtube.com/watch?v=l_y0rTK4Jdc&t=313s)

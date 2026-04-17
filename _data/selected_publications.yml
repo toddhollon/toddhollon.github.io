@@ -28,7 +28,7 @@ main:
     authors: Todd Hollon, Cheng Jiang, Asadur Chowdury, Mustafa Nasir-Moin, Akhil Kondepudi, Alexander Aabedi, Arjun Adapa, Wajd Al-Holou, Jason Heth, Oren Sagher, Pedro Lowenstein, Maria Castro, Lisa Irina Wadiura, Georg Widhalm, Volker Neuschmelting, David Reinecke, Niklas von Spreckelsen, Mitchel Berger, Shawn Hervey-Jumper, John Golfinos, Matija Snuderl, Sandra Camelo-Piragua, Christian Freudiger, Honglak Lee, and Daniel Orringer
     conference: NATURE MEDICINE · 2023
     description: >
-      Diffuse gliomas are classified using the molecular features. **DeepGlioma** predicts the molecular genetics of brain tumors within minutes of biopsy, *in the operating*, to better inform surgical goals.
+      Diffuse gliomas are classified using the molecular features. **DeepGlioma** predicts the molecular genetics of brain tumors within minutes of biopsy, *in the operating room*, to better inform surgical goals.
     url: https://deepglioma.mlins.org/
     pdf: https://doi.org/10.1038/s41591-023-02252-4
     image: "/assets/img/paper_logo/hollon2023artificial.webp"
@@ -62,18 +62,19 @@ main:
     # conference_short: CVPR
     conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
     description: >
-      Recent visual agents can score well while using image tools unfaithfully—e.g., cropping irrelevant regions or ignoring tool outputs. **CodeV** represents tools as executable Python code and trains with Tool-Aware Policy Optimization (TAPO), using process-level rewards on visual tool inputs and outputs to improve both accuracy and faithful tool use on search and broader multimodal benchmarks.
+      Recent visual agents can score well while using image tools unfaithfully-e.g., cropping irrelevant regions or ignoring tool outputs. **CodeV** represents tools as executable Python code and trains with Tool-Aware Policy Optimization (TAPO), using process-level rewards on visual tool inputs and outputs to improve both accuracy and faithful tool use on search and broader multimodal benchmarks.
     venue_logo: /assets/img/venues/cvpr.png
     pdf: https://arxiv.org/pdf/2511.19661
     code: https://github.com/RenlyH/CodeV
     image: /assets/img/paper_logo/codev2026.png
     url: https://arxiv.org/abs/2511.19661
+    notes: Oral
 
   - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
     authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
     conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH, 2026
     description: >
-      Vision–language pre-training for volumetric MRI and CT is usually limited by radiologist-curated datasets. **HLIP** instead uses hierarchical attention over slice, scan, and study to pre-train on uncurated clinical data at scale, boosting performance on public brain MRI and head CT benchmarks.
+      Vision-language pre-training for volumetric MRI and CT is usually limited by radiologist-curated datasets. **HLIP** instead uses hierarchical attention over slice, scan, and study to pre-train on uncurated clinical data at scale, boosting performance on public brain MRI and head CT benchmarks.
     venue_logo: /assets/img/venues/tmlr.png
     url: https://openreview.net/forum?id=WxHf4EcBWA
     pdf: /assets/papers/5990_Towards_Scalable_Language.pdf
