@@ -1,7 +1,24 @@
 <div class="publications">
-<ol class="bibliography">
 
+{% comment %} Collect unique publication years by extracting the trailing year from each conference string. {% endcomment %}
+{% assign year_set = "" %}
 {% for link in site.data.publications.main %}
+  {% assign _yr = link.conference | split: ' ' | last | strip %}
+  {% unless year_set contains _yr %}
+    {% assign year_set = year_set | append: _yr | append: "," %}
+  {% endunless %}
+{% endfor %}
+{% assign years = year_set | split: "," | sort | reverse %}
+
+{% for y in years %}
+{% unless y == "" %}
+
+<h2 class="year"><span>{{ y }}</span></h2>
+
+<ol class="bibliography">
+{% for link in site.data.publications.main %}
+{% assign _link_year = link.conference | split: ' ' | last | strip %}
+{% if _link_year == y %}
 
 <li>
 <div class="pub-row">
@@ -65,7 +82,11 @@
 </li>
 <br>
 
+{% endif %}
+{% endfor %}
+</ol>
+
+{% endunless %}
 {% endfor %}
 
-</ol>
 </div>

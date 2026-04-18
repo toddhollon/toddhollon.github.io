@@ -1,6 +1,24 @@
 # MLiNS news (merged from mlneurosurg.github.io/_data/news.yaml).
 # Images live in /assets/img/news/
 main:
+  - venue: The University Record | 2026
+    title: U-M summit to focus on challenges, opportunities of AI
+    link: https://record.umich.edu/articles/u-m-summit-to-focus-on-challenges-opportunities-of-ai/
+
+  - venue: Michigan Medicine Health Lab | 2026
+    title: An AI model that can read and diagnose a brain MRI in seconds
+    link: https://www.michiganmedicine.org/health-lab/ai-model-can-read-and-diagnose-brain-mri-seconds
+    image: /assets/img/news/prima2026_michiganmedicine_healthlab.png
+
+  - venue: The Detroit News | 2025
+    title: "UM President Grasso highlights MLiNS Lab: U-M's supercomputing investment benefits Michigan's research future."
+    link: https://archive.ph/Efqzr
+    image: /assets/img/news/grasso2025_umich_supercomputing.png
+
+  - venue: The University Record | 2025
+    title: "Regents Roundup March 2025: Todd C. Hollon named the inaugural Joseph R. Novello, M.D. and Alfredo Quiñones-Hinojosa, M.D. Research Professor of Neurosurgery."
+    link: https://record.umich.edu/articles/regents-roundup-march-2025/
+
   - venue: NIH Director's Blog | 2024
     title: AI System Has Potential to Differentiate Brain Cancer from Healthy Tissue During Surgery within Seconds
     link: https://directorsblog.nih.gov/2024/12/12/ai-system-has-potential-to-differentiate-brain-cancer-from-healthy-tissue-during-surgery-within-seconds/
@@ -44,7 +62,7 @@ main:
 
   - venue: Congress of Neurological Surgeons + National Institutes of Health | 2022
     title: Todd Hollon, M.D., receives NINDS/CNS Getch K12 scholar award.
-    link: https://mmheadlines.org/2022/03/todd-hollon-m-d-receives-ninds-cns-getch-k12-scholar-award/
+    link: https://fnih.org/our-programs/national-institute-of-neurological-disorders-and-stroke-congress-of-neurological-surgeons-foundation-k12-scholar-awards/
     image: /assets/img/news/adb8fcf1.webp
 
   - venue: University of Michigan Medical School | 2021

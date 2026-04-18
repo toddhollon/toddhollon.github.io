@@ -3,7 +3,7 @@
 main:
 - title: Learning neuroimaging models with health system-scale data
   authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
-  conference: NATURE BIOMEDICAL ENGINEERING, 2026
+  conference: NATURE BIOMEDICAL ENGINEERING · 2026
   description: >
     Introduces **Prima**, a visual foundation model for brain MRI trained at health-system scale for diagnosis, triage, and clinically grounded decision support.
   # conference_short: nBME
@@ -15,7 +15,7 @@ main:
   url: https://www.nature.com/articles/s41551-025-01608-0
 - title: Learning complete and explainable visual representations from itemized text supervision
   authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
-  conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
+  conference: COMPUTER VISION AND PATTERN RECOGNITION · 2026
   venue_logo: "/assets/img/venues/cvpr.png"
   pdf: https://arxiv.org/pdf/2512.11141
   code: https://github.com/MLNeurosurg/ItemizedCLIP
@@ -23,7 +23,7 @@ main:
   url: https://arxiv.org/abs/2512.11141
 - title: 'CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization'
   authors: Xinhai Hou, Shaoyuan Xu, Manan Biyani, Moyan Li, Jia Liu, Todd C. Hollon, and Bryan Wang
-  conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
+  conference: COMPUTER VISION AND PATTERN RECOGNITION · 2026
   venue_logo: "/assets/img/venues/cvpr.png"
   pdf: https://arxiv.org/pdf/2511.19661
   code: https://github.com/RenlyH/CodeV
@@ -142,7 +142,7 @@ main:
     link: https://doi.org/10.1093/noajnl/vdag065
 - title: Foundation models for fast, label-free detection of glioma infiltration
   authors: Akhil Kondepudi, Melike Pekmezci, Xinhai Hou, Katie Scotford, Cheng Jiang, Akshay Rao, Edward S. Harake, Asadur Chowdury, Wajd Al-Holou, Lin Wang, Aditya Pandey, Pedro R. Lowenstein, Maria G. Castro, Lisa Irina Koerner, Thomas Roetzer-Pejrimovsky, Georg Widhalm, Sandra Camelo-Piragua, Misha Movahed-Ezazi, Daniel A. Orringer, Honglak Lee, Christian Freudiger, Mitchel Berger, Shawn Hervey-Jumper, and Todd Hollon
-  conference: NATURE 2025
+  conference: NATURE · 2025
   venue_logo: "/assets/img/venues/nature.png"
   pdf: "/assets/papers/fastglioma.pdf"
   code: https://github.com/MLNeurosurg/fastglioma
@@ -238,7 +238,7 @@ main:
     link: https://thejns.org/spine/view/journals/j-neurosurg-spine/aop/article-10.3171-2024.1.SPINE231252/article-10.3171-2024.1.SPINE231252.xml
 - title: 'Combined cytotoxic and immune-stimulatory gene therapy for primary adult high-grade glioma: a phase 1, first-in- human trial'
   authors: Yoshie Umemura, Daniel Orringer, Larry Junck, Maria L Varela, Molly E J West, Syed M Faisal, Andrea Comba, Jason Heth, Oren Sagher, Denise Leung, Aaron Mammoser, Shawn Hervey-Jumper, Daniel Zamler, Viveka N Yadav, Patrick Dunn, Wajd Al-Holou, Todd Hollon, Michelle M Kim, Daniel R Wahl, Sandra Camelo-Piragua, Andrew P Lieberman, Sriram Venneti, Paul McKeever, Theodore Lawrence, Ryo Kurokawa, Karen Sagher, David Altshuler, Lili Zhao, Karin Muraszko, Maria G Castro, and Pedro R Lowenstein
-  conference: The Lancet Oncology · 2023
+  conference: LANCET ONCOLOGY · 2023
   venue_logo: "/assets/img/venues/lancet_oncology.png"
   url: https://doi.org/10.1016/S1470-2045(23)00347-9
   pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/umemura2023combined.pdf
@@ -262,6 +262,19 @@ main:
     link: https://arxiv.org/abs/2303.01605
   - title: Github
     link: https://github.com/MLNeurosurg/hidisc
+- title: Fine-grained Text Style Transfer with Diffusion-Based Language Models
+  authors: Yiwei Lyu, Tiange Luo, Jiacheng Shi, Todd C. Hollon, and Honglak Lee
+  conference: ACL Repl4NLP Workshop · 2023
+  venue_logo: "/assets/img/venues/acl.png"
+  image: "/assets/img/paper_logo/lyu2023finegrained.png"
+  url: https://arxiv.org/abs/2305.19512
+  pdf: https://arxiv.org/pdf/2305.19512
+  code: https://github.com/lvyiwei1/DiffuSeq_StylePTB
+  pills:
+  - title: arXiv
+    link: https://arxiv.org/abs/2305.19512
+  - title: Github
+    link: https://github.com/lvyiwei1/DiffuSeq_StylePTB
 - title: AI-based molecular classification of diffuse gliomas using rapid, label-free optical imaging
   authors: Todd Hollon, Cheng Jiang, Asadur Chowdury, Mustafa Nasir-Moin, Akhil Kondepudi, Alexander Aabedi, Arjun Adapa, Wajd Al-Holou, Jason Heth, Oren Sagher, Pedro Lowenstein, Maria Castro, Lisa Irina Wadiura, Georg Widhalm, Volker Neuschmelting, David Reinecke, Niklas von Spreckelsen, Mitchel Berger, Shawn Hervey-Jumper, John Golfinos, Matija Snuderl, Sandra Camelo-Piragua, Christian Freudiger, Honglak Lee, and Daniel Orringer
   conference: NATURE MEDICINE · 2023
@@ -282,7 +295,7 @@ main:
     link: https://github.com/MLNeurosurg/deepglioma
 - title: Unlocking glioma genetics with deep learning
   authors: Daniel A. Orringer and Todd C. Hollon
-  conference: Med · 2023
+  conference: MED · 2023
   venue_logo: "/assets/img/venues/med.png"
   url: https://doi.org/10.1016/j.medj.2023.07.008
   pills:

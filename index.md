@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 
-I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery (MLiNS) Lab***. Our research focuses on developing machine intelligence that better understands human health and disease, especially related to the nervous system. We aim to discover better data streams, model architectures, and learning objectives for healthcare. Our technical contributions include improved visual self-supervision, hierarchical and multimodal representation learning, and medical foundation modeling.
+I am an Assistant Professor at the University of Michigan and the Principal Investigator of the ***Machine Learning in Neurosurgery (MLiNS) Lab***. Our research focuses on developing machine intelligence that understands human health and disease, especially related to the nervous system. We aim to discover better data streams, model architectures, inductive biases, and learning objectives for medical AI. Our technical contributions include improved visual self-supervision, hierarchical and multimodal representation learning, and medical foundation modeling.
 
 ## [Photos and Bios of MLiNS Team](/students/)
 
@@ -18,6 +18,8 @@ The team, the team, the team.
 - **Apr 2026** - Rush Joshi wins Best Clinical Absract at 2026 Neurosurgery Symposium.
 - **Feb 2026** - [***Prima***](https://www.nature.com/articles/s41551-025-01608-0) is published in *Nature Biomedical Engineering*.
 - **Feb 2026** - Yiwei Lyu's paper, ***ItemizedCLIP***, is accepted at *CVPR*.
+- **Dec 2025** - MLiNS lab's supercomputing-powered brain cancer research [featured in *The Detroit News*](https://archive.ph/Efqzr) by UM president Domenico Grasso.
+- **Mar 2025** - Todd Hollon [named](https://record.umich.edu/articles/regents-roundup-march-2025/) the inaugural ***Joseph R. Novello, M.D. and Alfredo Quiñones-Hinojosa, M.D. Research Professor of Neurosurgery***.
 - More news [here](/news/).
 
 ## MLiNS Research Themes
@@ -38,19 +40,19 @@ The team, the team, the team.
 
 ## [MLiNS Videos and Podcasts](/videos/)
 
-<a href="https://www.youtube.com/watch?v=Q12IuCaKAr8"><img src="https://img.youtube.com/vi/Q12IuCaKAr8/hqdefault.jpg" alt="MLiNS video — watch on YouTube" width="240" height="180"></a>
+<a href="https://www.youtube.com/watch?v=Q12IuCaKAr8"><img src="https://img.youtube.com/vi/Q12IuCaKAr8/hqdefault.jpg" alt="MLiNS video - watch on YouTube" width="240" height="180"></a>
 
 [AI Journeys Session (YouTube)](https://www.youtube.com/watch?v=Q12IuCaKAr8)
 
-<a href="https://www.youtube.com/watch?v=l_y0rTK4Jdc"><img src="https://img.youtube.com/vi/l_y0rTK4Jdc/hqdefault.jpg" alt="Michigan MICDE interview — watch on YouTube" width="240" height="180"></a>
+<a href="https://www.youtube.com/watch?v=l_y0rTK4Jdc"><img src="https://img.youtube.com/vi/l_y0rTK4Jdc/hqdefault.jpg" alt="Michigan MICDE interview - watch on YouTube" width="240" height="180"></a>
 
 [UM MICDE interview](https://www.youtube.com/watch?v=l_y0rTK4Jdc&t)
 
-<a href="https://www.youtube.com/watch?v=o-OJhH49F7o"><img src="https://img.youtube.com/vi/o-OJhH49F7o/hqdefault.jpg" alt="MICDE discussion — watch on YouTube" width="240" height="180"></a>
+<a href="https://www.youtube.com/watch?v=o-OJhH49F7o"><img src="https://img.youtube.com/vi/o-OJhH49F7o/hqdefault.jpg" alt="MICDE discussion - watch on YouTube" width="240" height="180"></a>
 
 [UM MICDE discussion](https://www.youtube.com/watch?v=o-OJhH49F7o)
 
-<a href="https://www.youtube.com/watch?v=8BbshIbl7K8"><img src="https://img.youtube.com/vi/8BbshIbl7K8/hqdefault.jpg" alt="MLiNS video — watch on YouTube" width="240" height="180"></a>
+<a href="https://www.youtube.com/watch?v=8BbshIbl7K8"><img src="https://img.youtube.com/vi/8BbshIbl7K8/hqdefault.jpg" alt="MLiNS video - watch on YouTube" width="240" height="180"></a>
 
 [CCMB Seminar 02/12/2025](https://www.youtube.com/watch?v=8BbshIbl7K8)
 

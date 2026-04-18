@@ -3,7 +3,7 @@
 
 main:
   - name: Jacob Ogle
-    role: Machine Learning Engineer
+    role: Data Scientist
     image: /assets/img/people/jakeogle.jpeg
     website: https://www.linkedin.com/in/jakeogle/
 
