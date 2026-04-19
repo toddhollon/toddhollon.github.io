@@ -90,6 +90,17 @@ main:
       - title: NYTimes Article
         link: https://www.nytimes.com/2020/01/06/health/artificial-intelligence-brain-cancer.html
 
+  - title: Rapid, label-free detection of diffuse glioma recurrence using intraoperative stimulated Raman histology and deep neural networks
+    authors: Todd C Hollon, Balaji Pandian, Esteban Urias, Akshay V Save, Arjun R Adapa, Sudharsan Srinivasan, Neil K Jairath, Zia Farooq, Tamara Marie, Wajd N Al-Holou, Karen Eddy, Jason A Heth, Siri Sahib S Khalsa, Kyle Conway, Oren Sagher, Jeffrey N Bruce, Peter Canoll, Christian W Freudiger, Sandra Camelo-Piragua, Honglak Lee, Daniel A Orringer
+    conference: NEURO-ONCOLOGY · 2021
+    venue_logo: "/assets/img/venues/neuro_oncology.png"
+    url: https://doi.org/10.1093/neuonc/noaa162
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2021rapid.pdf
+    image: "/assets/img/paper_logo/hollon2021rapid.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2021rapid.pdf
+
   - title: Automated histologic diagnosis of CNS tumors with machine learning
     authors: Siri Sahib S Khalsa, Todd C Hollon, Arjun Adapa, Esteban Urias, Sudharsan Srinivasan, Neil Jairath, Julianne Szczepanski, Peter Ouillette, Sandra Camelo-Piragua, Daniel A Orringer
     conference: CNS ONCOLOGY · 2020
@@ -99,3 +110,14 @@ main:
     pills:
       - title: PDF
         link: https://mlins-site.s3.amazonaws.com/pdf/papers/khalsa2020automated.pdf
+
+  - title: Rapid Intraoperative Diagnosis of Pediatric Brain Tumors Using Stimulated Raman Histology
+    authors: Todd C Hollon, Spencer Lewis, Balaji Pandian, Yashar S Niknafs, Mia R Garrard, Hugh Garton, Cormac O Maher, Kathryn McFadden, Matija Snuderl, Andrew P Lieberman, Karin Muraszko, Sandra Camelo-Piragua, Daniel A Orringer
+    conference: CANCER RESEARCH · 2018
+    venue_logo: "/assets/img/venues/cancer_research.png"
+    url: https://doi.org/10.1158/0008-5472.can-17-1974
+    pdf: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018rapid.pdf
+    image: "/assets/img/paper_logo/hollon2018rapid.webp"
+    pills:
+      - title: PDF
+        link: https://mlins-site.s3.amazonaws.com/pdf/papers/hollon2018rapid.pdf

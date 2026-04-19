@@ -255,6 +255,7 @@ main:
   image: "/assets/img/paper_logo/jiang2023hierarchical.webp"
   code: https://github.com/MLNeurosurg/hidisc
   page: https://hidisc.mlins.org/
+  notes: Highlight
   pills:
   - title: Website
     link: https://hidisc.mlins.org/
