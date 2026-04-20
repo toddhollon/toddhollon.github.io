@@ -25,7 +25,7 @@ The team, the team, the team.
 ## MLiNS Research Themes
 
 - **[Intelligent Histology](/research/intelligent-histology/)** - intraoperative microscopy, computational pathology, brain tumor imaging
-- **[AI-based Neuroimaging](/research/neuroimaging/)** - AI for computed tomography and magnetic resonance imaging
+- **[AI-based Neuroimaging](/research/neuroimaging/)** - AI for brain, spine, and peripheral nerve imaging
 - **[Biomedical Computer Vision](/research/computer-vision/)** - visual representation learning, vision-language modeling
 - **[Patient Forecasting](/research/patient-forecasting/)** - outcome and survival prediction
 - **[Collaborative Neuro-Oncology](/research/collaborative-neuro-oncology/)** - team science in brain tumor research
@@ -38,7 +38,7 @@ The team, the team, the team.
 
 {% include_relative _includes/selected_preprints.md %}
 
-## [MLiNS Videos and Podcasts](/videos/)
+## MLiNS Videos and Podcasts
 
 <a href="https://www.youtube.com/watch?v=Q12IuCaKAr8"><img src="https://img.youtube.com/vi/Q12IuCaKAr8/hqdefault.jpg" alt="MLiNS video - watch on YouTube" width="240" height="180"></a>
 
@@ -56,6 +56,8 @@ The team, the team, the team.
 
 [CCMB Seminar 02/12/2025](https://www.youtube.com/watch?v=8BbshIbl7K8)
 
+More videos and podcasts [here](/videos/).
+
 ## Support for MLiNS Lab
 - [NIH National Cancer Institute (NCI)](https://reporter.nih.gov/search/fasIncKaf0K7CqBQs0Fyiw/project-details/11227784)
 - [NIH National Institute of Neurological Disorders and Stroke (NINDS)](https://www.nrcdp.org/)
@@ -67,4 +69,4 @@ The team, the team, the team.
 - [Scoliosis Research Society](https://www.srs.org/)
 - [Cook Family Foundation](https://www.cookfamilyfoundation.org/)
 
-<!-- consider adding links to each R01 -->
+Please email me directly at tocho [at] med.umich.edu if you would like to support our effort. **We are grateful for any contribution, big or small.**

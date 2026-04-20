@@ -3,6 +3,8 @@ main:
   - title: Health system learning achieves generalist neuroimaging models
     authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, Renly Hou, Cheng Jiang, Asadur Chowdury, Ashok Srinivasan, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
     conference: arXiv 2026
+    description: >
+      **NeuroVFM** is a visual foundation model trained on 5.24M clinical MRI and CT volumes via *health system learning*, a paradigm that leverages uncurated data from routine care. Using a scalable volumetric joint-embedding predictive architecture, it delivers state-of-the-art radiologic diagnosis and report generation with interpretable visual grounding, surpassing frontier models in accuracy, triage, and expert preference while reducing hallucinations.
     image: /assets/img/paper_logo/neurovfm.png
     venue_logo: "/assets/img/venues/arxiv-logo.png"
     url: https://arxiv.org/abs/2511.18640
@@ -20,6 +22,8 @@ main:
   - title: Optical Microscopy Predictions of Focal Recurrence in Glioblastoma
     authors: Herr S, Olshausen N, Pekmezci M, Kaur J, Sibih Y, Ambati V, Scotford K, Persad A, Picart T, Kondepudi A, Oberheim-Bush NA, Kim A, Young J, Berger MS, Sushil M, Hollon T, and Hervey-Jumper SL
     conference: medRxiv 2025
+    description: >
+      Using AI-quantified tumor infiltration from label-free optical microscopy of surgical margin tissue, combined with clinical, radiographic, and molecular features, a random forest model predicts sites of **focal glioblastoma recurrence** (validation AUC 80.3%). AI-derived infiltration was the strongest predictor, outperforming molecular features alone, pointing toward margin-guided precision adjuvant therapy for the highest-risk areas of disease.
     image: /assets/img/paper_logo/herr2025medrxiv_focal_recurrence.png
     venue_logo: "/assets/img/venues/medrxiv.png"
     url: https://doi.org/10.1101/2025.09.24.25336541

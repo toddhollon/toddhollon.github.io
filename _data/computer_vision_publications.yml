@@ -2,7 +2,9 @@
 main:
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
-    conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
+    conference: COMPUTER VISION AND PATTERN RECOGNITION · 2026
+    description: >
+      Standard contrastive language-image pre-training can neglect objects in visual scenes. **ItemizedCLIP** forces models to learn and attend to all described items, resulting in better visual representations.
     venue_logo: "/assets/img/venues/cvpr.png"
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
@@ -10,12 +12,15 @@ main:
     url: https://arxiv.org/abs/2512.11141
   - title: 'CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization'
     authors: Xinhai Hou, Shaoyuan Xu, Manan Biyani, Moyan Li, Jia Liu, Todd C. Hollon, and Bryan Wang
-    conference: COMPUTER VISION AND PATTERN RECOGNITION, 2026
+    conference: COMPUTER VISION AND PATTERN RECOGNITION · 2026
+    description: >
+      Recent visual agents can score well while using image tools unfaithfully-e.g., cropping irrelevant regions or ignoring tool outputs. **CodeV** represents tools as executable Python code and trains with Tool-Aware Policy Optimization (TAPO), using process-level rewards on visual tool inputs and outputs to improve both accuracy and faithful tool use on search and broader multimodal benchmarks.
     venue_logo: "/assets/img/venues/cvpr.png"
     pdf: https://arxiv.org/pdf/2511.19661
     code: https://github.com/RenlyH/CodeV
     image: "/assets/img/paper_logo/codev2026.png"
     url: https://arxiv.org/abs/2511.19661
+    notes: Oral
   - title: Step-Calibrated Diffusion for Biomedical Optical Image Restoration
     authors: Yiwei Lyu, Sung Jik Cha, Cheng Jiang, Asadur Chowdury, Xinhai Hou, Edward Harake, Akhil Kondepudi, Christian Freudiger, Honglak Lee, and Todd C. Hollon
     conference: AAAI · 2025
@@ -61,13 +66,16 @@ main:
         link: https://arxiv.org/abs/2402.06188
   - title: Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy
     authors: Cheng Jiang<sup>*</sup>, Xinhai Hou<sup>*</sup>, Akhil Kondepudi, Asadur Chowdury, Christian W. Freudiger, Daniel A. Orringer, Honglak Lee, and Todd C. Hollon
-    conference: CVPR · 2023
+    conference: COMPUTER VISION AND PATTERN RECOGNITION · 2023
+    description: >
+      **HiDisc** is a self-supervised learning method that leverages the inherent patient-slide-patch hierarchy of biomedical microscopy to learn stronger visual representations without explicit negative mining.
     venue_logo: "/assets/img/venues/cvpr.png"
     url: https://hidisc.mlins.org/
     pdf: https://arxiv.org/abs/2303.01605
     image: "/assets/img/paper_logo/jiang2023hierarchical.webp"
     code: https://github.com/MLNeurosurg/hidisc
     page: https://hidisc.mlins.org/
+    notes: Highlight
     pills:
       - title: Website
         link: https://hidisc.mlins.org/
@@ -78,6 +86,8 @@ main:
   - title: 'OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology'
     authors: Cheng Jiang<sup>*</sup>, Asadur Chowdury<sup>*</sup>, Xinhai Hou<sup>*</sup>, Akhil Kondepudi, Christian W. Freudiger, Kyle Conway, Sandra Camelo-Piragua, Daniel A. Orringer, Honglak Lee, and Todd C. Hollon
     conference: NEURIPS DATASETS & BENCHMARKS · 2022
+    description: >
+      **OpenSRH** is the first public dataset of clinical stimulated Raman histology images from brain tumor patients, released alongside benchmarks to accelerate machine learning research for intraoperative brain tumor diagnosis.
     venue_logo: "/assets/img/venues/neurips_logo.png"
     url: https://opensrh.mlins.org/
     pdf: https://arxiv.org/abs/2206.08439/

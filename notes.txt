@@ -1,6 +1,4 @@
 Things to add:
-2) Add Prima news article to list. 
-4) Fun photos of the lab
 
 
 bundle exec jekyll serve

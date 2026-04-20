@@ -3,6 +3,8 @@ main:
   - title: Towards Scalable Language-Image Pre-training for 3D Medical Imaging
     authors: Chenhui Zhao, Yiwei Lyu, Asadur Zaman Chowdury, Edward S. Harake, Akhil Kondepudi, Akshay T. Rao, Xinhai Hou, Honglak Lee, and Todd C. Hollon
     conference: TRANSACTIONS ON MACHINE LEARNING RESEARCH · 2026
+    description: >
+      Vision-language pre-training for volumetric MRI and CT is usually limited by radiologist-curated datasets. **HLIP** instead uses hierarchical attention over slice, scan, and study to pre-train on uncurated clinical data at scale, boosting performance on public brain MRI and head CT benchmarks.
     venue_logo: "/assets/img/venues/tmlr.png"
     url: https://openreview.net/forum?id=WxHf4EcBWA
     pdf: "/assets/papers/5990_Towards_Scalable_Language.pdf"
@@ -15,7 +17,9 @@ main:
 
   - title: Learning complete and explainable visual representations from itemized text supervision
     authors: Yiwei Lyu, Chenhui Zhao, Soumyanil Banerjee, Shixuan Liu, Akshay T. Rao, Akhil Kondepudi, Honglak Lee, and Todd C. Hollon
-    conference: Computer Vision and Pattern Recognition, 2026
+    conference: COMPUTER VISION AND PATTERN RECOGNITION · 2026
+    description: >
+      Standard contrastive language-image pre-training can neglect objects in visual scenes. **ItemizedCLIP** forces models to learn and attend to all described items, resulting in better visual representations.
     venue_logo: "/assets/img/venues/cvpr.png"
     pdf: https://arxiv.org/pdf/2512.11141
     code: https://github.com/MLNeurosurg/ItemizedCLIP
@@ -25,6 +29,8 @@ main:
   - title: Health system learning achieves generalist neuroimaging models
     authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, Renly Hou, Cheng Jiang, Asadur Chowdury, Ashok Srinivasan, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
     conference: arXiv · 2026
+    description: >
+      **NeuroVFM** is a visual foundation model trained on 5.24M clinical MRI and CT volumes via *health system learning*, a paradigm that leverages uncurated data from routine care. Using a scalable volumetric joint-embedding predictive architecture, it delivers state-of-the-art radiologic diagnosis and report generation with interpretable visual grounding, surpassing frontier models in accuracy, triage, and expert preference while reducing hallucinations.
     venue_logo: "/assets/img/venues/arxiv-logo.png"
     url: https://arxiv.org/abs/2511.18640
     pdf: https://arxiv.org/pdf/2511.18640
@@ -42,7 +48,7 @@ main:
 
   - title: Learning neuroimaging models with health system-scale data
     authors: Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, and Todd Hollon
-    conference: Nature Biomedical Engineering, 2026
+    conference: NATURE BIOMEDICAL ENGINEERING · 2026
     description: >
       Introduces **Prima**, a visual foundation model for brain MRI trained at health-system scale for diagnosis, triage, and clinically grounded decision support.
     venue_logo: "/assets/img/venues/nBME.jpg"
